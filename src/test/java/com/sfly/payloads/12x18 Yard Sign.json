@@ -1,0 +1,524 @@
+{
+  "projectType": {
+    "group": "gifts",
+    "version": "1",
+    "name": "12x18 Yard Sign"
+  },
+  "photoWell": [
+    {
+      "url": "",
+      "source": "shutterfly",
+      "thumbnailUrl": "https://uniim1.stage.shutterfly.com/procsimple?cropll=0,0&cropur=1,1&effect=AUTO&imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEWHh8eeCvTsI&DATA=v4EJkC-MqisWyMA4gjdoInZ8rVAr195mARm7WKOkZuBqaYDKjRha3nn37dkxxuuF9nrEhiPHA4bwu7W2ApWLDUztduSVSJ2dFw&rendersize=fit96x96",
+      "assetRef": "imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEWHh8eeCvTsI&DATA=v4EJkC-MqisWyMA4gjdoInZ8rVAr195mARm7WKOkZuBqaYDKjRha3nn37dkxxuuF9nrEhiPHA4bwu7W2ApWLDUztduSVSJ2dFw",
+      "height": 410,
+      "width": 728,
+      "id": "1826207570788391",
+      "ownerId": "23053350437",
+      "locationSpec": "02305335043720250310132710512.JPG"
+    },
+    {
+      "url": "",
+      "source": "shutterfly",
+      "thumbnailUrl": "https://uniim1.stage.shutterfly.com/procsimple?cropll=0,0&cropur=1,1&effect=AUTO&imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clE8JI4Fe6.n-J&DATA=v4EJkC-MqisWiKFd9hkecEdSa4ST3rIcniw2gjIf4-vsoQWWKpJGpgWFkOANduwNAho9QBao086.fdffFqFJbFCCIj5kk7L0RT&rendersize=fit96x96",
+      "assetRef": "imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clE8JI4Fe6.n-J&DATA=v4EJkC-MqisWiKFd9hkecEdSa4ST3rIcniw2gjIf4-vsoQWWKpJGpgWFkOANduwNAho9QBao086.fdffFqFJbFCCIj5kk7L0RT",
+      "height": 768,
+      "width": 1024,
+      "id": "1826207570788388",
+      "ownerId": "23053350437",
+      "locationSpec": "02305335043720250310132707509.JPG"
+    },
+    {
+      "url": "",
+      "source": "shutterfly",
+      "thumbnailUrl": "https://uniim1.stage.shutterfly.com/procsimple?cropll=0,0&cropur=1,1&effect=AUTO&imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEHgHFQsg4VDA&DATA=v4EJkC-MqisWSoYZCsgP2m3RjtRd8y9yL5jfsNiwu9eQUEBK65g8cDSmG5JSxPXhW2HDzT9ggJy5f7v5c0bZrBPA&rendersize=fit96x96",
+      "assetRef": "imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEHgHFQsg4VDA&DATA=v4EJkC-MqisWSoYZCsgP2m3RjtRd8y9yL5jfsNiwu9eQUEBK65g8cDSmG5JSxPXhW2HDzT9ggJy5f7v5c0bZrBPA",
+      "height": 484,
+      "width": 728,
+      "id": "1826207570788389",
+      "ownerId": "23053350437",
+      "locationSpec": "02305335043720250310132709510.JPG"
+    }
+  ],
+  "commerceSku": "CommerceProduct_489010",
+  "productCategory": "Gifts",
+  "surfaceCategories": [
+    {
+      "categoryName": "front",
+      "surfaces": [
+        {
+          "renderingOutput": {},
+          "surfaceMetadata": [
+            {
+              "name": "designId",
+              "value": "D_205283",
+              "metadataType": "Builder"
+            },
+            {
+              "name": "designGroupId",
+              "value": "DG_11971",
+              "metadataType": "Builder"
+            },
+            {
+              "name": "designCategoryId",
+              "value": "Native Full DesignCategory",
+              "metadataType": "Builder"
+            },
+            {
+              "name": "orientation",
+              "value": "landscape",
+              "metadataType": "Fulfillment"
+            }
+          ],
+          "surfaceNumber": 0,
+          "surfaceData": {
+            "pageDetails": {
+              "width": 5550,
+              "height": 3750,
+              "dpi": 300,
+              "minDpi": 0
+            },
+            "layeredItems": [
+              {
+                "content": {
+                  "contentType": "SolidColor",
+                  "userData": {
+                    "fill": "#FFFFFF"
+                  }
+                },
+                "container": {
+                  "w": 5550,
+                  "h": 3750,
+                  "x": 0,
+                  "y": 0,
+                  "rot": 0
+                },
+                "layerMetadata": [
+                  {
+                    "name": "designAssetId",
+                    "value": "default",
+                    "metadataType": "Builder"
+                  },
+                  {
+                    "name": "designAssetOperation",
+                    "value": "original_add",
+                    "metadataType": "Reporting"
+                  }
+                ],
+                "type": "background"
+              },
+              {
+                "content": {
+                  "contentType": "UserPhoto",
+                  "userData": {
+                    "assetId": "imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clE8JI4Fe6.n-J&DATA=v4EJkC-MqisWiKFd9hkecEdSa4ST3rIcniw2gjIf4-vsoQWWKpJGpgWFkOANduwNAho9QBao086.fdffFqFJbFCCIj5kk7L0RT",
+                    "mediaId": "1826207570788388",
+                    "locationSpec": "02305335043720250310132707509.JPG",
+                    "w": 3462.0334,
+                    "h": 2593.8208,
+                    "x": 2055.0266,
+                    "y": 460.36252,
+                    "rot": 0,
+                    "journalCore": "ef=au"
+                  }
+                },
+                "container": {
+                  "w": 2596.5251,
+                  "h": 2593.8208,
+                  "x": 2470.4707,
+                  "y": 460.36252,
+                  "rot": 0
+                },
+                "layerMetadata": [
+                  {
+                    "name": "designAssetCategoryId",
+                    "value": "unavailable",
+                    "metadataType": "Builder"
+                  },
+                  {
+                    "name": "designAssetOperation",
+                    "value": "original_add",
+                    "metadataType": "Reporting"
+                  },
+                  {
+                    "name": "reportingMediaSource",
+                    "value": "shutterfly",
+                    "metadataType": "Reporting"
+                  },
+                  {
+                    "name": "isLowResPhoto",
+                    "value": "true",
+                    "metadataType": "Builder"
+                  }
+                ],
+                "type": "photo"
+              },
+              {
+                "content": {
+                  "contentType": "UserPhoto",
+                  "userData": {
+                    "assetId": "imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEHgHFQsg4VDA&DATA=v4EJkC-MqisWSoYZCsgP2m3RjtRd8y9yL5jfsNiwu9eQUEBK65g8cDSmG5JSxPXhW2HDzT9ggJy5f7v5c0bZrBPA",
+                    "mediaId": "1826207570788389",
+                    "locationSpec": "02305335043720250310132709510.JPG",
+                    "w": 1893.9845,
+                    "h": 1259.1875,
+                    "x": 500.47235,
+                    "y": 2055.0833,
+                    "rot": 0,
+                    "journalCore": "ef=au"
+                  }
+                },
+                "container": {
+                  "w": 1787.0209,
+                  "h": 1259.1875,
+                  "x": 553.95416,
+                  "y": 2055.0833,
+                  "rot": 0
+                },
+                "layerMetadata": [
+                  {
+                    "name": "designAssetCategoryId",
+                    "value": "unavailable",
+                    "metadataType": "Builder"
+                  },
+                  {
+                    "name": "designAssetOperation",
+                    "value": "original_add",
+                    "metadataType": "Reporting"
+                  },
+                  {
+                    "name": "reportingMediaSource",
+                    "value": "shutterfly",
+                    "metadataType": "Reporting"
+                  },
+                  {
+                    "name": "isLowResPhoto",
+                    "value": "true",
+                    "metadataType": "Builder"
+                  }
+                ],
+                "type": "photo"
+              },
+              {
+                "content": {
+                  "contentType": "CustomColorSVGPath",
+                  "userData": {
+                    "assetId": "DA_189759",
+                    "w": 5550,
+                    "h": 3750,
+                    "x": 0,
+                    "y": 0,
+                    "rot": 0,
+                    "fill": "#000000"
+                  }
+                },
+                "container": {
+                  "w": 5550,
+                  "h": 3750,
+                  "x": 0,
+                  "y": 0,
+                  "rot": 0
+                },
+                "layerMetadata": [
+                  {
+                    "name": "designAssetId",
+                    "value": "DA_189759",
+                    "metadataType": "Builder"
+                  },
+                  {
+                    "name": "designAssetCategoryId",
+                    "value": "unavailable",
+                    "metadataType": "Builder"
+                  },
+                  {
+                    "name": "designAssetOperation",
+                    "value": "original_add",
+                    "metadataType": "Reporting"
+                  }
+                ],
+                "type": "dynamicSVGLayer"
+              },
+              {
+                "content": {
+                  "contentType": "Overlay",
+                  "userData": {
+                    "assetId": "DA_189770",
+                    "w": 5584,
+                    "h": 3784,
+                    "x": -16.666666,
+                    "y": -16.666666,
+                    "rot": 0
+                  }
+                },
+                "container": {
+                  "w": 5584,
+                  "h": 3784,
+                  "x": -16.666666,
+                  "y": -16.666666,
+                  "rot": 0
+                },
+                "layerMetadata": [
+                  {
+                    "name": "designAssetId",
+                    "value": "DA_189770",
+                    "metadataType": "Builder"
+                  },
+                  {
+                    "name": "designAssetCategoryId",
+                    "value": "unavailable",
+                    "metadataType": "Builder"
+                  },
+                  {
+                    "name": "designAssetOperation",
+                    "value": "original_add",
+                    "metadataType": "Reporting"
+                  }
+                ],
+                "type": "overlay"
+              },
+              {
+                "content": {
+                  "contentType": "UserText",
+                  "userData": {
+                    "assetId": "DA_46678",
+                    "fontSize": 150,
+                    "fontColor": "#FFFFFF",
+                    "alignmentAnchor": "5",
+                    "linesOfText": [
+                      {
+                        "x": 167.83749999999998,
+                        "y": 586.4963375,
+                        "userLineFeed": false,
+                        "text": "2024"
+                      }
+                    ],
+                    "fullText": "2024",
+                    "userEditedText": true
+                  }
+                },
+                "container": {
+                  "w": 2035.05,
+                  "h": 850.8833,
+                  "x": 401.85416,
+                  "y": 885.1583,
+                  "rot": 0
+                },
+                "layerMetadata": [
+                  {
+                    "name": "fontColor",
+                    "value": "CMYK(0,0,0,0)",
+                    "metadataType": "Renderer"
+                  },
+                  {
+                    "name": "colorSwatch",
+                    "value": "#FFFFFF",
+                    "metadataType": "Reporting"
+                  },
+                  {
+                    "name": "designAssetOperation",
+                    "value": "original_add",
+                    "metadataType": "Reporting"
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "content": {
+                  "contentType": "UserText",
+                  "userData": {
+                    "assetId": "DA_46436",
+                    "fontSize": 42,
+                    "fontColor": "#FFFFFF",
+                    "alignmentAnchor": "5",
+                    "linesOfText": [
+                      {
+                        "x": 480.00833779296886,
+                        "y": 245.81510193133045,
+                        "userLineFeed": false,
+                        "text": "SUMMER BREE"
+                      }
+                    ],
+                    "fullText": "SUMMER BREE",
+                    "userEditedText": true
+                  }
+                },
+                "container": {
+                  "w": 2824.2917,
+                  "h": 368.9875,
+                  "x": 2358.5166,
+                  "y": 3068.3916,
+                  "rot": 0
+                },
+                "layerMetadata": [
+                  {
+                    "name": "fontColor",
+                    "value": "CMYK(0,0,0,0)",
+                    "metadataType": "Renderer"
+                  },
+                  {
+                    "name": "colorSwatch",
+                    "value": "#FFFFFF",
+                    "metadataType": "Reporting"
+                  },
+                  {
+                    "name": "designAssetOperation",
+                    "value": "original_add",
+                    "metadataType": "Reporting"
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "content": {
+                  "contentType": "UserText",
+                  "userData": {
+                    "assetId": "DA_46436",
+                    "fontSize": 28,
+                    "fontColor": "#FFFFFF",
+                    "alignmentAnchor": "5",
+                    "linesOfText": [
+                      {
+                        "x": 413.25012791299406,
+                        "y": 136.47050948717947,
+                        "userLineFeed": false,
+                        "text": "we love our"
+                      }
+                    ],
+                    "fullText": "we love our",
+                    "userEditedText": true
+                  }
+                },
+                "container": {
+                  "w": 2035.05,
+                  "h": 190.46666,
+                  "x": 401.85416,
+                  "y": 795.6125,
+                  "rot": 0
+                },
+                "layerMetadata": [
+                  {
+                    "name": "fontColor",
+                    "value": "CMYK(0,0,0,0)",
+                    "metadataType": "Renderer"
+                  },
+                  {
+                    "name": "colorSwatch",
+                    "value": "#FFFFFF",
+                    "metadataType": "Reporting"
+                  },
+                  {
+                    "name": "designAssetOperation",
+                    "value": "original_add",
+                    "metadataType": "Reporting"
+                  }
+                ],
+                "type": "text"
+              }
+            ]
+          },
+          "version": "4.0"
+        }
+      ]
+    }
+  ],
+  "projectName": "Yard Sign - 7/23/2025",
+  "projectMetadata": [
+    {
+      "name": "designName",
+      "value": "1693771",
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "designGroupName",
+      "value": "Extensive Era",
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "orientation",
+      "value": "landscape",
+      "metadataType": "Fulfillment"
+    },
+    {
+      "name": "deviceInfo",
+      "value": "Chrome,desktop",
+      "metadataType": "Builder"
+    },
+    {
+      "name": "photoSources",
+      "value": [
+        "shutterfly"
+      ],
+      "metadataType": "Builder"
+    },
+    {
+      "name": "designId",
+      "value": "D_205283",
+      "metadataType": "Builder"
+    },
+    {
+      "name": "designGroupId",
+      "value": "DG_11971",
+      "metadataType": "Builder"
+    },
+    {
+      "name": "designCategoryId",
+      "value": "CAT_717",
+      "metadataType": "Builder"
+    },
+    {
+      "name": "landingDesignId",
+      "value": "Native Full Design",
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "landingDesignGroupId",
+      "value": "Native Full DesignGroup",
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "oldestUploadDate",
+      "value": "2025-03-10T05:27:08.295-0800",
+      "metadataType": "Fulfillment"
+    },
+    {
+      "name": "brand",
+      "value": "SFLY",
+      "metadataType": "Pfc"
+    },
+    {
+      "name": "locale",
+      "value": "en_US",
+      "metadataType": "Builder"
+    },
+    {
+      "name": "numOfSessionsToComplete",
+      "value": 1,
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "numOfMinutesToComplete",
+      "value": 0.3313833333333333,
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "spvId",
+      "value": "SPV_8275591006",
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "spId",
+      "value": "SP_3897849707",
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "initialPrice",
+      "value": 24.99,
+      "metadataType": "Reporting"
+    }
+  ],
+  "commerceOptions": [],
+  "qty": 1,
+  "editProjectUrl": "https://www3.stage.shutterfly.com/create/builder?sku=CommerceProduct_489010&dg=DG_11971&d=D_205283&dgcat=CAT_717&category=singlesurface&",
+  "version": "2.0",
+  "recordSeq": -1,
+  "origin": "web_builder"
+}

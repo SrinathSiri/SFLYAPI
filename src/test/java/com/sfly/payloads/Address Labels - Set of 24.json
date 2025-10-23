@@ -1,0 +1,354 @@
+{
+  "projectType": {
+    "group": "gifts",
+    "version": "1",
+    "name": "Address Labels - Set of 24"
+  },
+  "photoWell": [],
+  "commerceSku": "CommerceProduct_635564",
+  "productCategory": "Stationery",
+  "surfaceCategories": [
+    {
+      "categoryName": "front",
+      "surfaces": [
+        {
+          "renderingOutput": {},
+          "surfaceMetadata": [
+            {
+              "name": "designId",
+              "value": "D_206835",
+              "metadataType": "Builder"
+            },
+            {
+              "name": "designSurfaceId",
+              "value": "DA_3748283",
+              "metadataType": "Builder"
+            },
+            {
+              "name": "designGroupId",
+              "value": "DG_22519",
+              "metadataType": "Builder"
+            },
+            {
+              "name": "designCategoryId",
+              "value": "Native Full DesignCategory",
+              "metadataType": "Builder"
+            },
+            {
+              "name": "orientation",
+              "value": "landscape",
+              "metadataType": "Fulfillment"
+            }
+          ],
+          "surfaceNumber": 0,
+          "surfaceData": {
+            "pageDetails": {
+              "width": 1015,
+              "height": 507.5,
+              "dpi": 406,
+              "minDpi": 0
+            },
+            "layeredItems": [
+              {
+                "content": {
+                  "contentType": "SolidColor",
+                  "userData": {
+                    "fill": "#FFFFFF"
+                  }
+                },
+                "container": {
+                  "w": 1015,
+                  "h": 507.5,
+                  "x": 0,
+                  "y": 0,
+                  "rot": 0
+                },
+                "layerMetadata": [
+                  {
+                    "name": "designAssetId",
+                    "value": "default",
+                    "metadataType": "Builder"
+                  },
+                  {
+                    "name": "designAssetOperation",
+                    "value": "original_add",
+                    "metadataType": "Reporting"
+                  }
+                ],
+                "type": "background"
+              },
+              {
+                "content": {
+                  "contentType": "CustomColorSVGPath",
+                  "userData": {
+                    "assetId": "DA_3919932",
+                    "w": 1015,
+                    "h": 507.5,
+                    "x": 0,
+                    "y": 0,
+                    "rot": 0,
+                    "fill": "#FAE8E3"
+                  }
+                },
+                "container": {
+                  "w": 1015,
+                  "h": 507.5,
+                  "x": 0,
+                  "y": 0,
+                  "rot": 0
+                },
+                "layerMetadata": [
+                  {
+                    "name": "designAssetId",
+                    "value": "DA_3919932",
+                    "metadataType": "Builder"
+                  },
+                  {
+                    "name": "designAssetCategoryId",
+                    "value": "unavailable",
+                    "metadataType": "Builder"
+                  },
+                  {
+                    "name": "designAssetOperation",
+                    "value": "original_add",
+                    "metadataType": "Reporting"
+                  }
+                ],
+                "type": "dynamicSVGLayer"
+              },
+              {
+                "content": {
+                  "contentType": "CustomColorSVGPath",
+                  "userData": {
+                    "assetId": "DA_3920121",
+                    "w": 1015,
+                    "h": 507.5,
+                    "x": 0,
+                    "y": 0,
+                    "rot": 0,
+                    "fill": "#E40571"
+                  }
+                },
+                "container": {
+                  "w": 1015,
+                  "h": 507.5,
+                  "x": 0,
+                  "y": 0,
+                  "rot": 0
+                },
+                "layerMetadata": [
+                  {
+                    "name": "designAssetId",
+                    "value": "DA_3920121",
+                    "metadataType": "Builder"
+                  },
+                  {
+                    "name": "designAssetCategoryId",
+                    "value": "unavailable",
+                    "metadataType": "Builder"
+                  },
+                  {
+                    "name": "designAssetOperation",
+                    "value": "original_add",
+                    "metadataType": "Reporting"
+                  }
+                ],
+                "type": "dynamicSVGLayer"
+              },
+              {
+                "content": {
+                  "contentType": "UserText",
+                  "userData": {
+                    "assetId": "DA_46620",
+                    "fontSize": 14,
+                    "fontColor": "#E40571",
+                    "alignmentAnchor": "8",
+                    "linesOfText": [
+                      {
+                        "x": 74.81562416992188,
+                        "y": 124.60816,
+                        "userLineFeed": false,
+                        "text": "THE ANDERSONS"
+                      }
+                    ],
+                    "fullText": "THE ANDERSONS",
+                    "isCustomDesigned": false,
+                    "userEditedText": false
+                  }
+                },
+                "container": {
+                  "w": 845.9067,
+                  "h": 124.60816,
+                  "x": 85.55322,
+                  "y": 82.50258,
+                  "rot": 0
+                },
+                "layerMetadata": [
+                  {
+                    "name": "fontColor",
+                    "value": "CMYK(0,98,50,11)",
+                    "metadataType": "Renderer"
+                  },
+                  {
+                    "name": "colorSwatch",
+                    "value": "#E40571",
+                    "metadataType": "Reporting"
+                  },
+                  {
+                    "name": "designAssetOperation",
+                    "value": "original_add",
+                    "metadataType": "Reporting"
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "content": {
+                  "contentType": "UserText",
+                  "userData": {
+                    "assetId": "DA_46653",
+                    "fontSize": 11,
+                    "fontColor": "#E40571",
+                    "alignmentAnchor": "2",
+                    "linesOfText": [
+                      {
+                        "x": 160.33744423828125,
+                        "y": 45.02016129032259,
+                        "userLineFeed": true,
+                        "text": "445 Heyington Place "
+                      },
+                      {
+                        "x": 78.55765908203125,
+                        "y": 119.45349462365593,
+                        "userLineFeed": false,
+                        "text": "Camden, New Jersey 08103"
+                      }
+                    ],
+                    "fullText": "445 Heyington Place \nCamden, New Jersey 08103",
+                    "isCustomDesigned": false,
+                    "userEditedText": false
+                  }
+                },
+                "container": {
+                  "w": 845.9067,
+                  "h": 179.86363,
+                  "x": 85.55322,
+                  "y": 246.46455,
+                  "rot": 0
+                },
+                "layerMetadata": [
+                  {
+                    "name": "fontColor",
+                    "value": "CMYK(0,98,50,11)",
+                    "metadataType": "Renderer"
+                  },
+                  {
+                    "name": "colorSwatch",
+                    "value": "#E40571",
+                    "metadataType": "Reporting"
+                  },
+                  {
+                    "name": "designAssetOperation",
+                    "value": "original_add",
+                    "metadataType": "Reporting"
+                  }
+                ],
+                "type": "text"
+              }
+            ]
+          },
+          "version": "4.0"
+        }
+      ]
+    }
+  ],
+  "projectName": "Address Labels - 10/23/2025  10/23/25",
+  "projectMetadata": [
+    {
+      "name": "designName",
+      "value": "1724356",
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "designGroupName",
+      "value": "Minimal Magic",
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "orientation",
+      "value": "landscape",
+      "metadataType": "Fulfillment"
+    },
+    {
+      "name": "deviceInfo",
+      "value": "Chrome,desktop",
+      "metadataType": "Builder"
+    },
+    {
+      "name": "designId",
+      "value": "D_206835",
+      "metadataType": "Builder"
+    },
+    {
+      "name": "designGroupId",
+      "value": "DG_22519",
+      "metadataType": "Builder"
+    },
+    {
+      "name": "designCategoryId",
+      "value": "CAT_488",
+      "metadataType": "Builder"
+    },
+    {
+      "name": "landingDesignId",
+      "value": "D_206835",
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "landingDesignGroupId",
+      "value": "DG_22519",
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "brand",
+      "value": "SFLY",
+      "metadataType": "Pfc"
+    },
+    {
+      "name": "locale",
+      "value": "en_US",
+      "metadataType": "Builder"
+    },
+    {
+      "name": "numOfSessionsToComplete",
+      "value": 1,
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "numOfMinutesToComplete",
+      "value": 0.06733333333333333,
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "spvId",
+      "value": "SPV_1052210340",
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "spId",
+      "value": "SP_6823480631",
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "initialPrice",
+      "value": 9.98,
+      "metadataType": "Reporting"
+    }
+  ],
+  "commerceOptions": [],
+  "qty": "1",
+  "editProjectUrl": "https://www3.stage.shutterfly.com/create/builder?sku=CommerceProduct_635564&dg=DG_22519&d=D_206835&dgcat=CAT_488&category=singlesurface&",
+  "renderable": true,
+  "version": "2.0",
+  "origin": "web_builder"
+}
