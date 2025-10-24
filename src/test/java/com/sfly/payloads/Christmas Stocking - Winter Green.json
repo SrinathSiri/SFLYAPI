@@ -1,0 +1,497 @@
+{
+  "projectType": {
+    "group": "gifts",
+    "version": "1",
+    "name": "Christmas Stocking - Winter Green"
+  },
+  "photoWell": [
+    {
+      "url": "",
+      "source": "shutterfly",
+      "thumbnailUrl": "https://uniim1.stage.shutterfly.com/procsimple?cropll=0,0&cropur=1,1&effect=AUTO&imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clE8JI4Fe6.n-J&DATA=v4EJkC-MqisWiKFd9hkecEdSa4ST3rIcniw2gjIf4-vsoQWWKpJGpgWFkOANduwNAho9QBao086.fdffFqFJbFCCIj5kk7L0RT&rendersize=fit96x96",
+      "assetRef": "imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clE8JI4Fe6.n-J&DATA=v4EJkC-MqisWiKFd9hkecEdSa4ST3rIcniw2gjIf4-vsoQWWKpJGpgWFkOANduwNAho9QBao086.fdffFqFJbFCCIj5kk7L0RT",
+      "height": 768,
+      "width": 1024,
+      "id": "1826207570788388",
+      "ownerId": "023053350437",
+      "locationSpec": "02305335043720250310132707509.JPG"
+    },
+    {
+      "url": "",
+      "source": "shutterfly",
+      "thumbnailUrl": "https://uniim1.stage.shutterfly.com/procsimple?cropll=0,0&cropur=1,1&effect=AUTO&imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEHgHFQsg4VDA&DATA=v4EJkC-MqisWSoYZCsgP2m3RjtRd8y9yL5jfsNiwu9eQUEBK65g8cDSmG5JSxPXhW2HDzT9ggJy5f7v5c0bZrBPA&rendersize=fit96x96",
+      "assetRef": "imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEHgHFQsg4VDA&DATA=v4EJkC-MqisWSoYZCsgP2m3RjtRd8y9yL5jfsNiwu9eQUEBK65g8cDSmG5JSxPXhW2HDzT9ggJy5f7v5c0bZrBPA",
+      "height": 484,
+      "width": 728,
+      "id": "1826207570788389",
+      "ownerId": "023053350437",
+      "locationSpec": "02305335043720250310132709510.JPG"
+    },
+    {
+      "url": "",
+      "source": "shutterfly",
+      "thumbnailUrl": "https://uniim1.stage.shutterfly.com/procsimple?cropll=0,0&cropur=1,1&effect=AUTO&imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEWHh8eeCvTsI&DATA=v4EJkC-MqisWyMA4gjdoInZ8rVAr195mARm7WKOkZuBqaYDKjRha3nn37dkxxuuF9nrEhiPHA4bwu7W2ApWLDUztduSVSJ2dFw&rendersize=fit96x96",
+      "assetRef": "imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEWHh8eeCvTsI&DATA=v4EJkC-MqisWyMA4gjdoInZ8rVAr195mARm7WKOkZuBqaYDKjRha3nn37dkxxuuF9nrEhiPHA4bwu7W2ApWLDUztduSVSJ2dFw",
+      "height": 410,
+      "width": 728,
+      "id": "1826207570788391",
+      "ownerId": "023053350437",
+      "locationSpec": "02305335043720250310132710512.JPG"
+    },
+    {
+      "url": "",
+      "source": "shutterfly",
+      "thumbnailUrl": "https://uniim1.stage.shutterfly.com/procsimple?cropll=0,0&cropur=1,1&effect=AUTO&imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEVt9VyKWElPB&DATA=v4EJkC-MqisWigUnP2iAUNCpzRowHHhfGCO.ziUA2DPvjIrONMeK32vHkOANduwNAhihdN.KpUO8fCW-1JvgjFObvt8a3HPVwy&rendersize=fit96x96",
+      "assetRef": "imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEVt9VyKWElPB&DATA=v4EJkC-MqisWigUnP2iAUNCpzRowHHhfGCO.ziUA2DPvjIrONMeK32vHkOANduwNAhihdN.KpUO8fCW-1JvgjFObvt8a3HPVwy",
+      "height": 168,
+      "width": 300,
+      "id": "1826207570788402",
+      "ownerId": "023053350437",
+      "locationSpec": "02305335043720250310132732523.JPG"
+    },
+    {
+      "url": "",
+      "source": "shutterfly",
+      "thumbnailUrl": "https://uniim1.stage.shutterfly.com/procsimple?cropll=0,0&cropur=1,1&effect=AUTO&imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEAkFmRG4X.9E&DATA=v4EJkC-MqisWCCHhtMb8-.0EUw-SmNldhk5XD7J5i913xcgL1Zs4lpIN6ZhTnMAJpEy7uq9VdIEK3JDhgBuSLqFKPHIphrGjQN&rendersize=fit96x96",
+      "assetRef": "imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEAkFmRG4X.9E&DATA=v4EJkC-MqisWCCHhtMb8-.0EUw-SmNldhk5XD7J5i913xcgL1Zs4lpIN6ZhTnMAJpEy7uq9VdIEK3JDhgBuSLqFKPHIphrGjQN",
+      "height": 4500,
+      "width": 3000,
+      "id": "1826207570788405",
+      "ownerId": "023053350437",
+      "locationSpec": "02305335043720250310132738525.JPG"
+    },
+    {
+      "url": "",
+      "source": "shutterfly",
+      "thumbnailUrl": "https://uniim1.stage.shutterfly.com/procsimple?cropll=0,0&cropur=1,1&effect=AUTO&imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEwQkDRD3vvwM&DATA=v4EJkC-MqisWSMqg92bnr.U49sdv4NsZkn0WsGNhhnE5frtKbLVVc6PVULDYSR5WzC96Bu1Pivl40ChZAKZdeLh6V99qaHWt1R&rendersize=fit96x96",
+      "assetRef": "imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEwQkDRD3vvwM&DATA=v4EJkC-MqisWSMqg92bnr.U49sdv4NsZkn0WsGNhhnE5frtKbLVVc6PVULDYSR5WzC96Bu1Pivl40ChZAKZdeLh6V99qaHWt1R",
+      "height": 194,
+      "width": 259,
+      "id": "1826207570788398",
+      "ownerId": "023053350437",
+      "locationSpec": "02305335043720250310132730519.JPG"
+    },
+    {
+      "url": "",
+      "source": "shutterfly",
+      "thumbnailUrl": "https://uniim1.stage.shutterfly.com/procsimple?cropll=0,0&cropur=1,1&effect=AUTO&imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEQmFBzwTQ6LD&DATA=v4EJkC-MqisWCmAAwuVFz85xiK.xMX1tUKrQxjI1cPFpMyCpfDo6OO.obe0S4EtcYlxBOWOlgmxLdkWeQNpCsFiTDyWKeJG8yw&rendersize=fit96x96",
+      "assetRef": "imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEQmFBzwTQ6LD&DATA=v4EJkC-MqisWCmAAwuVFz85xiK.xMX1tUKrQxjI1cPFpMyCpfDo6OO.obe0S4EtcYlxBOWOlgmxLdkWeQNpCsFiTDyWKeJG8yw",
+      "height": 359,
+      "width": 640,
+      "id": "1826207570788403",
+      "ownerId": "023053350437",
+      "locationSpec": "02305335043720250310132732524.JPG"
+    },
+    {
+      "url": "",
+      "source": "shutterfly",
+      "thumbnailUrl": "https://uniim1.stage.shutterfly.com/procsimple?cropll=0,0&cropur=1,1&effect=AUTO&imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clE36zD9oQ0DPI&DATA=v4EJkC-MqisWSNloBW5KL78z3-KyP6U4HXWOoFqIrt9ZN6R40Ue501Uo4RKxDDPMPMeVZ0uUzYAz4wglYgVa6Ja1VRFe3s6DTk&rendersize=fit96x96",
+      "assetRef": "imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clE36zD9oQ0DPI&DATA=v4EJkC-MqisWSNloBW5KL78z3-KyP6U4HXWOoFqIrt9ZN6R40Ue501Uo4RKxDDPMPMeVZ0uUzYAz4wglYgVa6Ja1VRFe3s6DTk",
+      "height": 1080,
+      "width": 1920,
+      "id": "1826207570788390",
+      "ownerId": "023053350437",
+      "locationSpec": "02305335043720250310132709511.JPG"
+    },
+    {
+      "url": "",
+      "source": "shutterfly",
+      "thumbnailUrl": "https://uniim1.stage.shutterfly.com/procsimple?cropll=0,0&cropur=1,1&effect=AUTO&imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEUKCZXJ4rqQE&DATA=v4EJkC-MqisWitqJtI.8Gfa7NPdweZPn.StefvkUjtzd22PbX-JHz2MDw2GIKrLdA0N4o7aW9zLNa8uaUq.MY4ovkMRzlCIMUy&rendersize=fit96x96",
+      "assetRef": "imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEUKCZXJ4rqQE&DATA=v4EJkC-MqisWitqJtI.8Gfa7NPdweZPn.StefvkUjtzd22PbX-JHz2MDw2GIKrLdA0N4o7aW9zLNa8uaUq.MY4ovkMRzlCIMUy",
+      "height": 1200,
+      "width": 1920,
+      "id": "1826207570788406",
+      "ownerId": "023053350437",
+      "locationSpec": "02305335043720250310132740527.JPG"
+    },
+    {
+      "url": "",
+      "source": "shutterfly",
+      "thumbnailUrl": "https://uniim1.stage.shutterfly.com/procsimple?cropll=0,0&cropur=1,1&effect=AUTO&imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clE8eKgq8yVC5M&DATA=v4EJkC-MqisWyqlSxbIra0JjgBPV4-2F7K5RcfEjjPDrve25lZ-bmf8ud4CJeROBllxV8NnRtFu8IGor4wlkDBTKDZlUkR0uwo&rendersize=fit96x96",
+      "assetRef": "imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clE8eKgq8yVC5M&DATA=v4EJkC-MqisWyqlSxbIra0JjgBPV4-2F7K5RcfEjjPDrve25lZ-bmf8ud4CJeROBllxV8NnRtFu8IGor4wlkDBTKDZlUkR0uwo",
+      "height": 427,
+      "width": 640,
+      "id": "1826207570788407",
+      "ownerId": "023053350437",
+      "locationSpec": "02305335043720250310132741528.JPG"
+    },
+    {
+      "url": "",
+      "source": "shutterfly",
+      "thumbnailUrl": "https://uniim1.stage.shutterfly.com/procsimple?cropll=0,0&cropur=1,1&effect=AUTO&imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEFuxTug-HfTF&DATA=v4EJkC-MqisWSBFT69ZzO17LcQc8MOcW8XZKE1SYUo3d5Z9SmxBxr5tnsZJ6QAu1Xf-ldEE1rhPP4JmfMtptZLLXvA-4ToXQEU&rendersize=fit96x96",
+      "assetRef": "imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEFuxTug-HfTF&DATA=v4EJkC-MqisWSBFT69ZzO17LcQc8MOcW8XZKE1SYUo3d5Z9SmxBxr5tnsZJ6QAu1Xf-ldEE1rhPP4JmfMtptZLLXvA-4ToXQEU",
+      "height": 410,
+      "width": 728,
+      "id": "1826207570788397",
+      "ownerId": "023053350437",
+      "locationSpec": "02305335043720250310132729518.JPG"
+    },
+    {
+      "url": "",
+      "source": "shutterfly",
+      "thumbnailUrl": "https://uniim1.stage.shutterfly.com/procsimple?cropll=0,0&cropur=1,1&effect=AUTO&imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEcnh8nXRbQ4E&DATA=v4EJkC-MqisWSADXZ4BdP8ZDd4AOyqZ5gwvAZG3lMkzObCqJ9t7NRbM4rJ71AwIiq3vIV5cjPhNrqXQ.dlWA3Rh6.Z6mZYPp03&rendersize=fit96x96",
+      "assetRef": "imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEcnh8nXRbQ4E&DATA=v4EJkC-MqisWSADXZ4BdP8ZDd4AOyqZ5gwvAZG3lMkzObCqJ9t7NRbM4rJ71AwIiq3vIV5cjPhNrqXQ.dlWA3Rh6.Z6mZYPp03",
+      "height": 168,
+      "width": 300,
+      "id": "1826207570788399",
+      "ownerId": "023053350437",
+      "locationSpec": "02305335043720250310132730520.JPG"
+    },
+    {
+      "url": "",
+      "source": "shutterfly",
+      "thumbnailUrl": "https://uniim1.stage.shutterfly.com/procsimple?cropll=0,0&cropur=1,1&effect=AUTO&imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEDv37NAO15NJ&DATA=v4EJkC-MqisWCfjgArbgtLQrMrs.q8w7lJOLMoPLCbmlZi7UjE3YuN-D6MwzIZMPO5cQ-wjD-7k9IeMbEpz7dRtGNnlgk5x-xP&rendersize=fit96x96",
+      "assetRef": "imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEDv37NAO15NJ&DATA=v4EJkC-MqisWCfjgArbgtLQrMrs.q8w7lJOLMoPLCbmlZi7UjE3YuN-D6MwzIZMPO5cQ-wjD-7k9IeMbEpz7dRtGNnlgk5x-xP",
+      "height": 640,
+      "width": 1024,
+      "id": "1826207570788392",
+      "ownerId": "023053350437",
+      "locationSpec": "02305335043720250310132711513.JPG"
+    },
+    {
+      "url": "",
+      "source": "shutterfly",
+      "thumbnailUrl": "https://uniim1.stage.shutterfly.com/procsimple?cropll=0,0&cropur=1,1&effect=AUTO&imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clE6qb23Xr4oGC&DATA=v4EJkC-MqisWiDKdUhN6NsaqJlCRbgukOgFfapr.JRTpiCB-0vAqJYc3zTX6NQooe1LQVq5HZC.odE6c2R27vgnUp8usrsYxVE&rendersize=fit96x96",
+      "assetRef": "imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clE6qb23Xr4oGC&DATA=v4EJkC-MqisWiDKdUhN6NsaqJlCRbgukOgFfapr.JRTpiCB-0vAqJYc3zTX6NQooe1LQVq5HZC.odE6c2R27vgnUp8usrsYxVE",
+      "height": 225,
+      "width": 225,
+      "id": "1826207570788400",
+      "ownerId": "023053350437",
+      "locationSpec": "02305335043720250310132731521.JPG"
+    },
+    {
+      "url": "",
+      "source": "shutterfly",
+      "thumbnailUrl": "https://uniim1.stage.shutterfly.com/procsimple?cropll=0,0&cropur=1,1&effect=AUTO&imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEwMpY-CtGeyA&DATA=v4EJkC-MqisWCZLHGIusXwTHh5B9xteY8hw8ZwhAavWObsSbm5pI3gKksZJ6QAu1XfdlbQI1XfH3Ye84ZZeBXY.FuuPBaSHLk4&rendersize=fit96x96",
+      "assetRef": "imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEwMpY-CtGeyA&DATA=v4EJkC-MqisWCZLHGIusXwTHh5B9xteY8hw8ZwhAavWObsSbm5pI3gKksZJ6QAu1XfdlbQI1XfH3Ye84ZZeBXY.FuuPBaSHLk4",
+      "height": 177,
+      "width": 284,
+      "id": "1826207570788401",
+      "ownerId": "023053350437",
+      "locationSpec": "02305335043720250310132731522.JPG"
+    },
+    {
+      "url": "",
+      "source": "shutterfly",
+      "thumbnailUrl": "https://uniim1.stage.shutterfly.com/procsimple?cropll=0,0&cropur=1,1&effect=AUTO&imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clELzx8PhDX54L&DATA=v4EJkC-MqisWSADXZ4BdP8ZDxPKdGuSEU3yKd4CsvQz8WIThkMi68iEy2oFNV03Jdg4pPk5P06TSOFVt.87SCmAGjfCUFzUtTO&rendersize=fit96x96",
+      "assetRef": "imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clELzx8PhDX54L&DATA=v4EJkC-MqisWSADXZ4BdP8ZDxPKdGuSEU3yKd4CsvQz8WIThkMi68iEy2oFNV03Jdg4pPk5P06TSOFVt.87SCmAGjfCUFzUtTO",
+      "height": 250,
+      "width": 400,
+      "id": "1826207570788404",
+      "ownerId": "023053350437",
+      "locationSpec": "02305335043720250310132738526.JPG"
+    }
+  ],
+  "commerceSku": "CommerceProduct_489356",
+  "productCategory": "Gifts",
+  "surfaceCategories": [
+    {
+      "categoryName": "front",
+      "surfaces": [
+        {
+          "renderingOutput": {},
+          "surfaceMetadata": [
+            {
+              "name": "designId",
+              "value": "D_188598",
+              "metadataType": "Builder"
+            },
+            {
+              "name": "designSurfaceId",
+              "value": "DA_3724619",
+              "metadataType": "Builder"
+            },
+            {
+              "name": "designGroupId",
+              "value": "DG_6927",
+              "metadataType": "Builder"
+            },
+            {
+              "name": "designCategoryId",
+              "value": "Native Full DesignCategory",
+              "metadataType": "Builder"
+            },
+            {
+              "name": "orientation",
+              "value": "portrait",
+              "metadataType": "Fulfillment"
+            }
+          ],
+          "surfaceNumber": 0,
+          "surfaceData": {
+            "pageDetails": {
+              "width": 3762,
+              "height": 6309,
+              "dpi": 300,
+              "minDpi": 0
+            },
+            "layeredItems": [
+              {
+                "content": {
+                  "contentType": "SolidColor",
+                  "userData": {
+                    "fill": "#FFFFFF"
+                  }
+                },
+                "container": {
+                  "w": 3762,
+                  "h": 6309,
+                  "x": 0,
+                  "y": 0,
+                  "rot": 0
+                },
+                "layerMetadata": [
+                  {
+                    "name": "designAssetId",
+                    "value": "default",
+                    "metadataType": "Builder"
+                  },
+                  {
+                    "name": "designAssetOperation",
+                    "value": "original_add",
+                    "metadataType": "Reporting"
+                  }
+                ],
+                "type": "background"
+              },
+              {
+                "content": {
+                  "contentType": "UserPhoto",
+                  "userData": {
+                    "assetId": "imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEHgHFQsg4VDA&DATA=v4EJkC-MqisWSoYZCsgP2m3RjtRd8y9yL5jfsNiwu9eQUEBK65g8cDSmG5JSxPXhW2HDzT9ggJy5f7v5c0bZrBPA",
+                    "mediaId": "1826207570788389",
+                    "locationSpec": "02305335043720250310132709510.JPG",
+                    "w": 3762.0044,
+                    "h": 2501.1128153846153,
+                    "x": 0,
+                    "y": 2838.512421153846,
+                    "rot": 0,
+                    "journalCore": "ef=au/"
+                  }
+                },
+                "container": {
+                  "w": 3762.0044,
+                  "h": 1873.2625,
+                  "x": 0,
+                  "y": 2995.475,
+                  "rot": 0
+                },
+                "layerMetadata": [
+                  {
+                    "name": "designAssetCategoryId",
+                    "value": "unavailable",
+                    "metadataType": "Builder"
+                  },
+                  {
+                    "name": "designAssetOperation",
+                    "value": "original_add",
+                    "metadataType": "Reporting"
+                  },
+                  {
+                    "name": "reportingMediaSource",
+                    "value": "shutterfly",
+                    "metadataType": "Reporting"
+                  },
+                  {
+                    "name": "isLowResPhoto",
+                    "value": "true",
+                    "metadataType": "Builder"
+                  }
+                ],
+                "type": "photo"
+              },
+              {
+                "content": {
+                  "contentType": "Overlay",
+                  "userData": {
+                    "assetId": "DA_121532",
+                    "w": 3762,
+                    "h": 6308,
+                    "x": 0,
+                    "y": 0,
+                    "rot": 0
+                  }
+                },
+                "container": {
+                  "w": 3762,
+                  "h": 6308,
+                  "x": 0,
+                  "y": 0,
+                  "rot": 0
+                },
+                "layerMetadata": [
+                  {
+                    "name": "designAssetId",
+                    "value": "DA_121532",
+                    "metadataType": "Builder"
+                  },
+                  {
+                    "name": "designAssetCategoryId",
+                    "value": "unavailable",
+                    "metadataType": "Builder"
+                  },
+                  {
+                    "name": "designAssetOperation",
+                    "value": "original_add",
+                    "metadataType": "Reporting"
+                  }
+                ],
+                "type": "overlay"
+              },
+              {
+                "content": {
+                  "contentType": "UserText",
+                  "userData": {
+                    "assetId": "DA_46386",
+                    "fontSize": 80,
+                    "fontColor": "#231F20",
+                    "alignmentAnchor": "5",
+                    "linesOfText": [
+                      {
+                        "x": 138.78234746093744,
+                        "y": 316.14375,
+                        "userLineFeed": false,
+                        "text": "T H E  D E L G A D O S"
+                      }
+                    ],
+                    "fullText": "T H E  D E L G A D O S",
+                    "isCustomDesigned": false,
+                    "userEditedText": false
+                  }
+                },
+                "container": {
+                  "w": 1636.2749,
+                  "h": 477.9125,
+                  "x": 1503.2208,
+                  "y": 4936.446,
+                  "rot": 0
+                },
+                "layerMetadata": [
+                  {
+                    "name": "fontColor",
+                    "value": "CMYK(0,11,9,86)",
+                    "metadataType": "Renderer"
+                  },
+                  {
+                    "name": "colorSwatch",
+                    "value": "#231F20",
+                    "metadataType": "Reporting"
+                  },
+                  {
+                    "name": "designAssetOperation",
+                    "value": "original_add",
+                    "metadataType": "Reporting"
+                  }
+                ],
+                "type": "text"
+              }
+            ]
+          },
+          "version": "4.0"
+        }
+      ]
+    }
+  ],
+  "projectName": "Christmas Stocking - 10/24/2025",
+  "projectMetadata": [
+    {
+      "name": "designName",
+      "value": "1568602",
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "designGroupName",
+      "value": "Rustic White Christmas",
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "orientation",
+      "value": "portrait",
+      "metadataType": "Fulfillment"
+    },
+    {
+      "name": "deviceInfo",
+      "value": "Chrome,desktop",
+      "metadataType": "Builder"
+    },
+    {
+      "name": "photoSources",
+      "value": [
+        "shutterfly"
+      ],
+      "metadataType": "Builder"
+    },
+    {
+      "name": "designId",
+      "value": "D_188598",
+      "metadataType": "Builder"
+    },
+    {
+      "name": "designGroupId",
+      "value": "DG_6927",
+      "metadataType": "Builder"
+    },
+    {
+      "name": "designCategoryId",
+      "value": "CAT_528",
+      "metadataType": "Builder"
+    },
+    {
+      "name": "landingDesignId",
+      "value": "D_188598",
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "landingDesignGroupId",
+      "value": "DG_6927",
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "oldestUploadDate",
+      "value": "2025-03-09T23:57:08.000-0800",
+      "metadataType": "Fulfillment"
+    },
+    {
+      "name": "brand",
+      "value": "SFLY",
+      "metadataType": "Pfc"
+    },
+    {
+      "name": "locale",
+      "value": "en_US",
+      "metadataType": "Builder"
+    },
+    {
+      "name": "numOfSessionsToComplete",
+      "value": 1,
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "numOfMinutesToComplete",
+      "value": 0.7207166666666667,
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "spvId",
+      "value": "SPV_2452524262",
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "spId",
+      "value": "SP_5394583421",
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "initialPrice",
+      "value": 24.99,
+      "metadataType": "Reporting"
+    }
+  ],
+  "commerceOptions": [],
+  "qty": "1",
+  "editProjectUrl": "https://www3.stage.shutterfly.com/create/builder?sku=CommerceProduct_489356&dg=DG_6927&d=D_188598&dgcat=CAT_528&category=singlesurface&",
+  "renderable": true,
+  "version": "2.0",
+  "recordSeq": 0,
+  "origin": "web_builder"
+}

@@ -1,5 +1,6 @@
 package com.sfly.projects;
 
+import com.fasterxml.jackson.databind.ObjectMapper;
 import com.sfly.base.BaseTest;
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
@@ -10,6 +11,7 @@ import org.testng.annotations.Test;
 
 import java.io.File;
 import java.io.FileReader;
+import java.util.Map;
 
 public class Notepad5x7 extends BaseTest {
 
@@ -17,7 +19,12 @@ public class Notepad5x7 extends BaseTest {
     public void Notepad5x7() throws Exception {
         test.get().info("Preparing payload...");
         File file = new File("C:\\Users\\v-srinath.sirimalla\\AutomationWorkspace\\SFLYAPI\\src\\test\\java\\com\\sfly\\payloads\\5x7 Notepad.json");
-        JSONObject payload = new JSONObject(new JSONTokener(new FileReader(file)));
+
+        // ✅ Use Jackson instead of org.json
+        ObjectMapper mapper = new ObjectMapper();
+
+        // ✅ Jackson is tolerant — if JSON has duplicate keys, it just keeps the last one
+        Map<String, Object> payload = mapper.readValue(file, Map.class);
 
         test.get().info("Sending POST request to Project API...");
         Response response = RestAssured.given()
@@ -25,7 +32,7 @@ public class Notepad5x7 extends BaseTest {
                 .contentType("application/json")
                 .header("Authorization", "Bearer " + idToken)
                 .header("x-api-key", xApiKey)
-                .body(payload.toString())
+                .body(payload)
                 .pathParam("project", "project")
                 .queryParam("origin", "web_builder")
                 .queryParam("accountId", accountId) // 🔥 dynamically loaded

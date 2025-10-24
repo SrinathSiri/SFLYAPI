@@ -1,0 +1,281 @@
+{
+  "projectType": {
+    "group": "gifts",
+    "version": "1",
+    "name": "10x14 Bamboo Cutting Board - Etched"
+  },
+  "photoWell": [],
+  "commerceSku": "CommerceProduct_489875",
+  "productCategory": "Gifts",
+  "surfaceCategories": [
+    {
+      "categoryName": "front",
+      "surfaces": [
+        {
+          "renderingOutput": {},
+          "surfaceMetadata": [
+            {
+              "name": "designId",
+              "value": "D_189460",
+              "metadataType": "Builder"
+            },
+            {
+              "name": "designSurfaceId",
+              "value": "DA_3726045",
+              "metadataType": "Builder"
+            },
+            {
+              "name": "designGroupId",
+              "value": "DG_7035",
+              "metadataType": "Builder"
+            },
+            {
+              "name": "designCategoryId",
+              "value": "Native Full DesignCategory",
+              "metadataType": "Builder"
+            },
+            {
+              "name": "orientation",
+              "value": "landscape",
+              "metadataType": "Fulfillment"
+            }
+          ],
+          "surfaceNumber": 0,
+          "surfaceData": {
+            "pageDetails": {
+              "width": 2650,
+              "height": 1800,
+              "dpi": 200,
+              "minDpi": 0
+            },
+            "layeredItems": [
+              {
+                "content": {
+                  "contentType": "Embellishment",
+                  "userData": {
+                    "assetId": "DA_3367976",
+                    "w": 2650,
+                    "h": 1800,
+                    "x": 0,
+                    "y": 0,
+                    "rot": 0
+                  }
+                },
+                "container": {
+                  "w": 2650,
+                  "h": 1800,
+                  "x": 0,
+                  "y": 0,
+                  "rot": 0
+                },
+                "layerMetadata": [
+                  {
+                    "name": "designAssetId",
+                    "value": "DA_3367976",
+                    "metadataType": "Builder"
+                  },
+                  {
+                    "name": "designAssetCategoryId",
+                    "value": "unavailable",
+                    "metadataType": "Builder"
+                  },
+                  {
+                    "name": "designAssetOperation",
+                    "value": "original_add",
+                    "metadataType": "Reporting"
+                  }
+                ],
+                "type": "embellishment"
+              },
+              {
+                "content": {
+                  "contentType": "UserText",
+                  "userData": {
+                    "assetId": "DA_46439",
+                    "fontSize": 80,
+                    "fontColor": "#662612",
+                    "alignmentAnchor": "5",
+                    "linesOfText": [
+                      {
+                        "x": 353.9013549804688,
+                        "y": 257.6083316666667,
+                        "userLineFeed": false,
+                        "text": "AURORA"
+                      }
+                    ],
+                    "fullText": "AURORA",
+                    "isCustomDesigned": false,
+                    "userEditedText": true
+                  }
+                },
+                "container": {
+                  "w": 2086.9,
+                  "h": 354.38333,
+                  "x": 273.51111,
+                  "y": 326.4194300000001,
+                  "rot": 0
+                },
+                "layerMetadata": [
+                  {
+                    "name": "fontColor",
+                    "value": "CMYK(0,63,82,60)",
+                    "metadataType": "Renderer"
+                  },
+                  {
+                    "name": "colorSwatch",
+                    "value": "#662612",
+                    "metadataType": "Reporting"
+                  },
+                  {
+                    "name": "designAssetOperation",
+                    "value": "original_edit",
+                    "metadataType": "Reporting"
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "content": {
+                  "contentType": "UserText",
+                  "userData": {
+                    "assetId": "DA_46572",
+                    "fontSize": 48,
+                    "fontColor": "#662612",
+                    "alignmentAnchor": "5",
+                    "linesOfText": [
+                      {
+                        "x": 786.6148929687499,
+                        "y": 178.14220730337078,
+                        "userLineFeed": false,
+                        "text": "We Love You"
+                      }
+                    ],
+                    "fullText": "We Love You",
+                    "isCustomDesigned": false,
+                    "userEditedText": true
+                  }
+                },
+                "container": {
+                  "w": 2094.8167,
+                  "h": 274.9361,
+                  "x": 269.55276,
+                  "y": 1174.0167,
+                  "rot": 0
+                },
+                "layerMetadata": [
+                  {
+                    "name": "fontColor",
+                    "value": "CMYK(0,63,82,60)",
+                    "metadataType": "Renderer"
+                  },
+                  {
+                    "name": "colorSwatch",
+                    "value": "#662612",
+                    "metadataType": "Reporting"
+                  },
+                  {
+                    "name": "designAssetOperation",
+                    "value": "original_edit",
+                    "metadataType": "Reporting"
+                  }
+                ],
+                "type": "text"
+              }
+            ]
+          },
+          "version": "4.0"
+        }
+      ]
+    }
+  ],
+  "projectName": "Bamboo Cutting Board - 10/24/2025",
+  "projectMetadata": [
+    {
+      "name": "designName",
+      "value": "1530133",
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "designGroupName",
+      "value": "Head Grill Master",
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "orientation",
+      "value": "landscape",
+      "metadataType": "Fulfillment"
+    },
+    {
+      "name": "deviceInfo",
+      "value": "Chrome,desktop",
+      "metadataType": "Builder"
+    },
+    {
+      "name": "designId",
+      "value": "D_189460",
+      "metadataType": "Builder"
+    },
+    {
+      "name": "designGroupId",
+      "value": "DG_7035",
+      "metadataType": "Builder"
+    },
+    {
+      "name": "designCategoryId",
+      "value": "CAT_709",
+      "metadataType": "Builder"
+    },
+    {
+      "name": "landingDesignId",
+      "value": "D_189460",
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "landingDesignGroupId",
+      "value": "DG_7035",
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "brand",
+      "value": "SFLY",
+      "metadataType": "Pfc"
+    },
+    {
+      "name": "locale",
+      "value": "en_US",
+      "metadataType": "Builder"
+    },
+    {
+      "name": "numOfSessionsToComplete",
+      "value": 1,
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "numOfMinutesToComplete",
+      "value": 1.0554166666666667,
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "spvId",
+      "value": "SPV_1114478979",
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "spId",
+      "value": "SP_5969408553",
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "initialPrice",
+      "value": 49.99,
+      "metadataType": "Reporting"
+    }
+  ],
+  "commerceOptions": [],
+  "qty": "1",
+  "editProjectUrl": "https://www3.stage.shutterfly.com/create/builder?sku=CommerceProduct_489875&dg=DG_7035&d=D_189460&dgcat=CAT_709&category=singlesurface&",
+  "renderable": true,
+  "version": "2.0",
+  "recordSeq": -1,
+  "origin": "web_builder"
+}
