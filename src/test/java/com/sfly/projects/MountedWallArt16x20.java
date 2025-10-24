@@ -16,7 +16,7 @@ public class MountedWallArt16x20 extends BaseTest {
     @Test
     public void MountedWallArt16x20() throws Exception {
         test.get().info("Preparing payload...");
-        File file = new File("C:\\Users\\v-srinath.sirimalla\\AutomationWorkspace\\RestAssuredPractice\\src\\test\\java\\com\\sfly\\payloads\\Mounted Wall Art (16x20).json");
+        File file = new File("C:\\Users\\v-srinath.sirimalla\\AutomationWorkspace\\SFLYAPI\\src\\test\\java\\com\\sfly\\payloads\\Mounted Wall Art (16x20).json");
         JSONObject payload = new JSONObject(new JSONTokener(new FileReader(file)));
 
         test.get().info("Sending POST request to Project API...");

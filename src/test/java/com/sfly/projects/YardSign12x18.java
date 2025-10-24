@@ -16,7 +16,7 @@ public class YardSign12x18 extends BaseTest {
     @Test
     public void YardSign12x18() throws Exception {
         test.get().info("Preparing payload...");
-        File file = new File("C:\\Users\\v-srinath.sirimalla\\AutomationWorkspace\\RestAssuredPractice\\src\\test\\java\\com\\sfly\\payloads\\12x18 Yard Sign.json");
+        File file = new File("C:\\Users\\v-srinath.sirimalla\\AutomationWorkspace\\SFLYAPI\\src\\test\\java\\com\\sfly\\payloads\\12x18 Yard Sign.json");
         JSONObject payload = new JSONObject(new JSONTokener(new FileReader(file)));
 
         test.get().info("Sending POST request to Project API...");

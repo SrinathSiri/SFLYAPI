@@ -16,7 +16,7 @@ public class TriFoldSmoothCardstock5x7 extends BaseTest {
     @Test
     public void TriFoldSmoothCardstock5x7() throws Exception {
         test.get().info("Preparing payload...");
-        File file = new File("C:\\Users\\v-srinath.sirimalla\\AutomationWorkspace\\RestAssuredPractice\\src\\test\\java\\com\\sfly\\payloads\\5x7 Tri-Fold Smooth Cardstock.json");
+        File file = new File("C:\\Users\\v-srinath.sirimalla\\AutomationWorkspace\\SFLYAPI\\src\\test\\java\\com\\sfly\\payloads\\5x7 Tri-Fold Smooth Cardstock.json");
         JSONObject payload = new JSONObject(new JSONTokener(new FileReader(file)));
 
         test.get().info("Sending POST request to Project API...");

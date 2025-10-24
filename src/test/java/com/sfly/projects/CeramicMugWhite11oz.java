@@ -16,7 +16,7 @@ public class CeramicMugWhite11oz extends BaseTest {
     @Test
     public void CeramicMugWhite11oz() throws Exception {
         test.get().info("Preparing payload...");
-        File file = new File("C:\\Users\\v-srinath.sirimalla\\AutomationWorkspace\\RestAssuredPractice\\src\\test\\java\\com\\sfly\\payloads\\11oz Ceramic Mug White.json");
+        File file = new File("C:\\Users\\v-srinath.sirimalla\\AutomationWorkspace\\SFLYAPI\\src\\test\\java\\com\\sfly\\payloads\\11oz Ceramic Mug White.json");
         JSONObject payload = new JSONObject(new JSONTokener(new FileReader(file)));
 
         test.get().info("Sending POST request to Project API...");

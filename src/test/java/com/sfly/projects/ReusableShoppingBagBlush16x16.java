@@ -16,7 +16,7 @@ public class ReusableShoppingBagBlush16x16 extends BaseTest {
     @Test
     public void ReusableShoppingBagBlush16x16() throws Exception {
         test.get().info("Preparing payload...");
-        File file = new File("C:\\Users\\v-srinath.sirimalla\\AutomationWorkspace\\RestAssuredPractice\\src\\test\\java\\com\\sfly\\payloads\\16x16 Reusable Shopping Bag - Blush.json");
+        File file = new File("C:\\Users\\v-srinath.sirimalla\\AutomationWorkspace\\SFLYAPI\\src\\test\\java\\com\\sfly\\payloads\\16x16 Reusable Shopping Bag - Blush.json");
         JSONObject payload = new JSONObject(new JSONTokener(new FileReader(file)));
 
         test.get().info("Sending POST request to Project API...");

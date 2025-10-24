@@ -16,7 +16,7 @@ public class BlackTshirtAdultSFrontDesign extends BaseTest {
     @Test
     public void BlackTshirtAdultSFrontDesign() throws Exception {
         test.get().info("Preparing payload...");
-        File file = new File("C:\\Users\\v-srinath.sirimalla\\AutomationWorkspace\\RestAssuredPractice\\src\\test\\java\\com\\sfly\\payloads\\Black T-shirt - Adult S, Front Design.json");
+        File file = new File("C:\\Users\\v-srinath.sirimalla\\AutomationWorkspace\\SFLYAPI\\src\\test\\java\\com\\sfly\\payloads\\Black T-shirt - Adult S, Front Design.json");
         JSONObject payload = new JSONObject(new JSONTokener(new FileReader(file)));
 
         test.get().info("Sending POST request to Project API...");

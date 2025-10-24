@@ -17,7 +17,7 @@ public class Photobook8x11 extends BaseTest {
         test.get().info("Preparing payload...");
 
         // ✅ Use Jackson's ObjectMapper instead of org.json
-        File file = new File("C:\\Users\\v-srinath.sirimalla\\AutomationWorkspace\\RestAssuredPractice\\src\\test\\java\\com\\sfly\\payloads\\8x11 Photobook.json");
+        File file = new File("C:\\Users\\v-srinath.sirimalla\\AutomationWorkspace\\SFLYAPI\\src\\test\\java\\com\\sfly\\payloads\\8x11 Photobook.json");
         ObjectMapper mapper = new ObjectMapper();
 
         // ✅ Jackson automatically ignores duplicate keys, keeps the last occurrence

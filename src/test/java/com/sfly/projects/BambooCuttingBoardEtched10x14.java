@@ -11,12 +11,12 @@ import org.testng.annotations.Test;
 import java.io.File;
 import java.io.FileReader;
 
-public class GateFoldedSmoothCardstock5x7 extends BaseTest {
+public class BambooCuttingBoardEtched10x14 extends BaseTest {
 
     @Test
-    public void GateFoldedSmoothCardstock5x7() throws Exception {
+    public void BambooCuttingBoardEtched10x14() throws Exception {
         test.get().info("Preparing payload...");
-        File file = new File("C:\\Users\\v-srinath.sirimalla\\AutomationWorkspace\\SFLYAPI\\src\\test\\java\\com\\sfly\\payloads\\5x7 GateFolded Smooth Cardstock.json");
+        File file = new File("C:\\Users\\v-srinath.sirimalla\\AutomationWorkspace\\SFLYAPI\\src\\test\\java\\com\\sfly\\payloads\\10x14 Bamboo Cutting Board - Etched.json");
         JSONObject payload = new JSONObject(new JSONTokener(new FileReader(file)));
 
         test.get().info("Sending POST request to Project API...");
@@ -40,3 +40,4 @@ public class GateFoldedSmoothCardstock5x7 extends BaseTest {
         Assert.assertEquals(response.statusCode(), 201, "Project creation failed!");
     }
 }
+

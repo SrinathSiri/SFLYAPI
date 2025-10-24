@@ -16,7 +16,7 @@ public class BuntingBannerSignatureSmoothCardstock extends BaseTest {
     @Test
     public void BuntingBannerSignatureSmoothCardstock() throws Exception {
         test.get().info("Preparing payload...");
-        File file = new File("C:\\Users\\v-srinath.sirimalla\\AutomationWorkspace\\RestAssuredPractice\\src\\test\\java\\com\\sfly\\payloads\\Bunting Banner - Signature Smooth Cardstock.json");
+        File file = new File("C:\\Users\\v-srinath.sirimalla\\AutomationWorkspace\\SFLYAPI\\src\\test\\java\\com\\sfly\\payloads\\Bunting Banner - Signature Smooth Cardstock.json");
         JSONObject payload = new JSONObject(new JSONTokener(new FileReader(file)));
 
         test.get().info("Sending POST request to Project API...");

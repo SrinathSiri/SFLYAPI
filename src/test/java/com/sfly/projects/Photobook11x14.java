@@ -17,7 +17,7 @@ public class Photobook11x14 extends BaseTest {
         test.get().info("Preparing payload...");
 
         // ✅ Use Jackson ObjectMapper for lenient parsing
-        File file = new File("C:\\Users\\v-srinath.sirimalla\\AutomationWorkspace\\RestAssuredPractice\\src\\test\\java\\com\\sfly\\payloads\\11x14 Photobook.json");
+        File file = new File("C:\\Users\\v-srinath.sirimalla\\AutomationWorkspace\\SFLYAPI\\src\\test\\java\\com\\sfly\\payloads\\11x14 Photobook.json");
         ObjectMapper mapper = new ObjectMapper();
 
         // ✅ Jackson tolerates duplicate keys (keeps the last one)
