@@ -1,0 +1,1051 @@
+{
+  "projectType": {
+    "group": "gifts",
+    "version": "1",
+    "name": "24x36 Celebration Photo Board"
+  },
+  "photoWell": [
+    {
+      "url": "",
+      "source": "shutterfly",
+      "thumbnailUrl": "https://uniim1.stage.shutterfly.com/procsimple?cropll=0,0&cropur=1,1&effect=AUTO&imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clE8JI4Fe6.n-J&DATA=v4EJkC-MqisWiKFd9hkecEdSa4ST3rIcniw2gjIf4-vsoQWWKpJGpgWFkOANduwNAho9QBao086.fdffFqFJbFCCIj5kk7L0RT&rendersize=fit96x96",
+      "assetRef": "imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clE8JI4Fe6.n-J&DATA=v4EJkC-MqisWiKFd9hkecEdSa4ST3rIcniw2gjIf4-vsoQWWKpJGpgWFkOANduwNAho9QBao086.fdffFqFJbFCCIj5kk7L0RT",
+      "height": 768,
+      "width": 1024,
+      "id": "1826207570788388",
+      "ownerId": "23053350437",
+      "locationSpec": "02305335043720250310132707509.JPG"
+    },
+    {
+      "url": "",
+      "source": "shutterfly",
+      "thumbnailUrl": "https://uniim1.stage.shutterfly.com/procsimple?cropll=0,0&cropur=1,1&effect=AUTO&imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEHgHFQsg4VDA&DATA=v4EJkC-MqisWSoYZCsgP2m3RjtRd8y9yL5jfsNiwu9eQUEBK65g8cDSmG5JSxPXhW2HDzT9ggJy5f7v5c0bZrBPA&rendersize=fit96x96",
+      "assetRef": "imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEHgHFQsg4VDA&DATA=v4EJkC-MqisWSoYZCsgP2m3RjtRd8y9yL5jfsNiwu9eQUEBK65g8cDSmG5JSxPXhW2HDzT9ggJy5f7v5c0bZrBPA",
+      "height": 484,
+      "width": 728,
+      "id": "1826207570788389",
+      "ownerId": "23053350437",
+      "locationSpec": "02305335043720250310132709510.JPG"
+    },
+    {
+      "url": "",
+      "source": "shutterfly",
+      "thumbnailUrl": "https://uniim1.stage.shutterfly.com/procsimple?cropll=0,0&cropur=1,1&effect=AUTO&imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEWHh8eeCvTsI&DATA=v4EJkC-MqisWyMA4gjdoInZ8rVAr195mARm7WKOkZuBqaYDKjRha3nn37dkxxuuF9nrEhiPHA4bwu7W2ApWLDUztduSVSJ2dFw&rendersize=fit96x96",
+      "assetRef": "imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEWHh8eeCvTsI&DATA=v4EJkC-MqisWyMA4gjdoInZ8rVAr195mARm7WKOkZuBqaYDKjRha3nn37dkxxuuF9nrEhiPHA4bwu7W2ApWLDUztduSVSJ2dFw",
+      "height": 410,
+      "width": 728,
+      "id": "1826207570788391",
+      "ownerId": "23053350437",
+      "locationSpec": "02305335043720250310132710512.JPG"
+    },
+    {
+      "url": "",
+      "source": "shutterfly",
+      "thumbnailUrl": "https://uniim1.stage.shutterfly.com/procsimple?cropll=0,0&cropur=1,1&effect=AUTO&imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEVt9VyKWElPB&DATA=v4EJkC-MqisWigUnP2iAUNCpzRowHHhfGCO.ziUA2DPvjIrONMeK32vHkOANduwNAhihdN.KpUO8fCW-1JvgjFObvt8a3HPVwy&rendersize=fit96x96",
+      "assetRef": "imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEVt9VyKWElPB&DATA=v4EJkC-MqisWigUnP2iAUNCpzRowHHhfGCO.ziUA2DPvjIrONMeK32vHkOANduwNAhihdN.KpUO8fCW-1JvgjFObvt8a3HPVwy",
+      "height": 168,
+      "width": 300,
+      "id": "1826207570788402",
+      "ownerId": "23053350437",
+      "locationSpec": "02305335043720250310132732523.JPG"
+    },
+    {
+      "url": "",
+      "source": "shutterfly",
+      "thumbnailUrl": "https://uniim1.stage.shutterfly.com/procsimple?cropll=0,0&cropur=1,1&effect=AUTO&imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEAkFmRG4X.9E&DATA=v4EJkC-MqisWCCHhtMb8-.0EUw-SmNldhk5XD7J5i913xcgL1Zs4lpIN6ZhTnMAJpEy7uq9VdIEK3JDhgBuSLqFKPHIphrGjQN&rendersize=fit96x96",
+      "assetRef": "imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEAkFmRG4X.9E&DATA=v4EJkC-MqisWCCHhtMb8-.0EUw-SmNldhk5XD7J5i913xcgL1Zs4lpIN6ZhTnMAJpEy7uq9VdIEK3JDhgBuSLqFKPHIphrGjQN",
+      "height": 4500,
+      "width": 3000,
+      "id": "1826207570788405",
+      "ownerId": "23053350437",
+      "locationSpec": "02305335043720250310132738525.JPG"
+    },
+    {
+      "url": "",
+      "source": "shutterfly",
+      "thumbnailUrl": "https://uniim1.stage.shutterfly.com/procsimple?cropll=0,0&cropur=1,1&effect=AUTO&imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEwQkDRD3vvwM&DATA=v4EJkC-MqisWSMqg92bnr.U49sdv4NsZkn0WsGNhhnE5frtKbLVVc6PVULDYSR5WzC96Bu1Pivl40ChZAKZdeLh6V99qaHWt1R&rendersize=fit96x96",
+      "assetRef": "imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEwQkDRD3vvwM&DATA=v4EJkC-MqisWSMqg92bnr.U49sdv4NsZkn0WsGNhhnE5frtKbLVVc6PVULDYSR5WzC96Bu1Pivl40ChZAKZdeLh6V99qaHWt1R",
+      "height": 194,
+      "width": 259,
+      "id": "1826207570788398",
+      "ownerId": "23053350437",
+      "locationSpec": "02305335043720250310132730519.JPG"
+    },
+    {
+      "url": "",
+      "source": "shutterfly",
+      "thumbnailUrl": "https://uniim1.stage.shutterfly.com/procsimple?cropll=0,0&cropur=1,1&effect=AUTO&imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEQmFBzwTQ6LD&DATA=v4EJkC-MqisWCmAAwuVFz85xiK.xMX1tUKrQxjI1cPFpMyCpfDo6OO.obe0S4EtcYlxBOWOlgmxLdkWeQNpCsFiTDyWKeJG8yw&rendersize=fit96x96",
+      "assetRef": "imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEQmFBzwTQ6LD&DATA=v4EJkC-MqisWCmAAwuVFz85xiK.xMX1tUKrQxjI1cPFpMyCpfDo6OO.obe0S4EtcYlxBOWOlgmxLdkWeQNpCsFiTDyWKeJG8yw",
+      "height": 359,
+      "width": 640,
+      "id": "1826207570788403",
+      "ownerId": "23053350437",
+      "locationSpec": "02305335043720250310132732524.JPG"
+    },
+    {
+      "url": "",
+      "source": "shutterfly",
+      "thumbnailUrl": "https://uniim1.stage.shutterfly.com/procsimple?cropll=0,0&cropur=1,1&effect=AUTO&imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clE36zD9oQ0DPI&DATA=v4EJkC-MqisWSNloBW5KL78z3-KyP6U4HXWOoFqIrt9ZN6R40Ue501Uo4RKxDDPMPMeVZ0uUzYAz4wglYgVa6Ja1VRFe3s6DTk&rendersize=fit96x96",
+      "assetRef": "imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clE36zD9oQ0DPI&DATA=v4EJkC-MqisWSNloBW5KL78z3-KyP6U4HXWOoFqIrt9ZN6R40Ue501Uo4RKxDDPMPMeVZ0uUzYAz4wglYgVa6Ja1VRFe3s6DTk",
+      "height": 1080,
+      "width": 1920,
+      "id": "1826207570788390",
+      "ownerId": "23053350437",
+      "locationSpec": "02305335043720250310132709511.JPG"
+    },
+    {
+      "url": "",
+      "source": "shutterfly",
+      "thumbnailUrl": "https://uniim1.stage.shutterfly.com/procsimple?cropll=0,0&cropur=1,1&effect=AUTO&imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEUKCZXJ4rqQE&DATA=v4EJkC-MqisWitqJtI.8Gfa7NPdweZPn.StefvkUjtzd22PbX-JHz2MDw2GIKrLdA0N4o7aW9zLNa8uaUq.MY4ovkMRzlCIMUy&rendersize=fit96x96",
+      "assetRef": "imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEUKCZXJ4rqQE&DATA=v4EJkC-MqisWitqJtI.8Gfa7NPdweZPn.StefvkUjtzd22PbX-JHz2MDw2GIKrLdA0N4o7aW9zLNa8uaUq.MY4ovkMRzlCIMUy",
+      "height": 1200,
+      "width": 1920,
+      "id": "1826207570788406",
+      "ownerId": "23053350437",
+      "locationSpec": "02305335043720250310132740527.JPG"
+    },
+    {
+      "url": "",
+      "source": "shutterfly",
+      "thumbnailUrl": "https://uniim1.stage.shutterfly.com/procsimple?cropll=0,0&cropur=1,1&effect=AUTO&imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clE8eKgq8yVC5M&DATA=v4EJkC-MqisWyqlSxbIra0JjgBPV4-2F7K5RcfEjjPDrve25lZ-bmf8ud4CJeROBllxV8NnRtFu8IGor4wlkDBTKDZlUkR0uwo&rendersize=fit96x96",
+      "assetRef": "imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clE8eKgq8yVC5M&DATA=v4EJkC-MqisWyqlSxbIra0JjgBPV4-2F7K5RcfEjjPDrve25lZ-bmf8ud4CJeROBllxV8NnRtFu8IGor4wlkDBTKDZlUkR0uwo",
+      "height": 427,
+      "width": 640,
+      "id": "1826207570788407",
+      "ownerId": "23053350437",
+      "locationSpec": "02305335043720250310132741528.JPG"
+    },
+    {
+      "url": "",
+      "source": "shutterfly",
+      "thumbnailUrl": "https://uniim1.stage.shutterfly.com/procsimple?cropll=0,0&cropur=1,1&effect=AUTO&imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEFuxTug-HfTF&DATA=v4EJkC-MqisWSBFT69ZzO17LcQc8MOcW8XZKE1SYUo3d5Z9SmxBxr5tnsZJ6QAu1Xf-ldEE1rhPP4JmfMtptZLLXvA-4ToXQEU&rendersize=fit96x96",
+      "assetRef": "imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEFuxTug-HfTF&DATA=v4EJkC-MqisWSBFT69ZzO17LcQc8MOcW8XZKE1SYUo3d5Z9SmxBxr5tnsZJ6QAu1Xf-ldEE1rhPP4JmfMtptZLLXvA-4ToXQEU",
+      "height": 410,
+      "width": 728,
+      "id": "1826207570788397",
+      "ownerId": "23053350437",
+      "locationSpec": "02305335043720250310132729518.JPG"
+    },
+    {
+      "url": "",
+      "source": "shutterfly",
+      "thumbnailUrl": "https://uniim1.stage.shutterfly.com/procsimple?cropll=0,0&cropur=1,1&effect=AUTO&imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEcnh8nXRbQ4E&DATA=v4EJkC-MqisWSADXZ4BdP8ZDd4AOyqZ5gwvAZG3lMkzObCqJ9t7NRbM4rJ71AwIiq3vIV5cjPhNrqXQ.dlWA3Rh6.Z6mZYPp03&rendersize=fit96x96",
+      "assetRef": "imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEcnh8nXRbQ4E&DATA=v4EJkC-MqisWSADXZ4BdP8ZDd4AOyqZ5gwvAZG3lMkzObCqJ9t7NRbM4rJ71AwIiq3vIV5cjPhNrqXQ.dlWA3Rh6.Z6mZYPp03",
+      "height": 168,
+      "width": 300,
+      "id": "1826207570788399",
+      "ownerId": "23053350437",
+      "locationSpec": "02305335043720250310132730520.JPG"
+    },
+    {
+      "url": "",
+      "source": "shutterfly",
+      "thumbnailUrl": "https://uniim1.stage.shutterfly.com/procsimple?cropll=0,0&cropur=1,1&effect=AUTO&imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEDv37NAO15NJ&DATA=v4EJkC-MqisWCfjgArbgtLQrMrs.q8w7lJOLMoPLCbmlZi7UjE3YuN-D6MwzIZMPO5cQ-wjD-7k9IeMbEpz7dRtGNnlgk5x-xP&rendersize=fit96x96",
+      "assetRef": "imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEDv37NAO15NJ&DATA=v4EJkC-MqisWCfjgArbgtLQrMrs.q8w7lJOLMoPLCbmlZi7UjE3YuN-D6MwzIZMPO5cQ-wjD-7k9IeMbEpz7dRtGNnlgk5x-xP",
+      "height": 640,
+      "width": 1024,
+      "id": "1826207570788392",
+      "ownerId": "23053350437",
+      "locationSpec": "02305335043720250310132711513.JPG"
+    },
+    {
+      "url": "",
+      "source": "shutterfly",
+      "thumbnailUrl": "https://uniim1.stage.shutterfly.com/procsimple?cropll=0,0&cropur=1,1&effect=AUTO&imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clE6qb23Xr4oGC&DATA=v4EJkC-MqisWiDKdUhN6NsaqJlCRbgukOgFfapr.JRTpiCB-0vAqJYc3zTX6NQooe1LQVq5HZC.odE6c2R27vgnUp8usrsYxVE&rendersize=fit96x96",
+      "assetRef": "imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clE6qb23Xr4oGC&DATA=v4EJkC-MqisWiDKdUhN6NsaqJlCRbgukOgFfapr.JRTpiCB-0vAqJYc3zTX6NQooe1LQVq5HZC.odE6c2R27vgnUp8usrsYxVE",
+      "height": 225,
+      "width": 225,
+      "id": "1826207570788400",
+      "ownerId": "23053350437",
+      "locationSpec": "02305335043720250310132731521.JPG"
+    },
+    {
+      "url": "",
+      "source": "shutterfly",
+      "thumbnailUrl": "https://uniim1.stage.shutterfly.com/procsimple?cropll=0,0&cropur=1,1&effect=AUTO&imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEwMpY-CtGeyA&DATA=v4EJkC-MqisWCZLHGIusXwTHh5B9xteY8hw8ZwhAavWObsSbm5pI3gKksZJ6QAu1XfdlbQI1XfH3Ye84ZZeBXY.FuuPBaSHLk4&rendersize=fit96x96",
+      "assetRef": "imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEwMpY-CtGeyA&DATA=v4EJkC-MqisWCZLHGIusXwTHh5B9xteY8hw8ZwhAavWObsSbm5pI3gKksZJ6QAu1XfdlbQI1XfH3Ye84ZZeBXY.FuuPBaSHLk4",
+      "height": 177,
+      "width": 284,
+      "id": "1826207570788401",
+      "ownerId": "23053350437",
+      "locationSpec": "02305335043720250310132731522.JPG"
+    },
+    {
+      "url": "",
+      "source": "shutterfly",
+      "thumbnailUrl": "https://uniim1.stage.shutterfly.com/procsimple?cropll=0,0&cropur=1,1&effect=AUTO&imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clELzx8PhDX54L&DATA=v4EJkC-MqisWSADXZ4BdP8ZDxPKdGuSEU3yKd4CsvQz8WIThkMi68iEy2oFNV03Jdg4pPk5P06TSOFVt.87SCmAGjfCUFzUtTO&rendersize=fit96x96",
+      "assetRef": "imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clELzx8PhDX54L&DATA=v4EJkC-MqisWSADXZ4BdP8ZDxPKdGuSEU3yKd4CsvQz8WIThkMi68iEy2oFNV03Jdg4pPk5P06TSOFVt.87SCmAGjfCUFzUtTO",
+      "height": 250,
+      "width": 400,
+      "id": "1826207570788404",
+      "ownerId": "23053350437",
+      "locationSpec": "02305335043720250310132738526.JPG"
+    }
+  ],
+  "commerceSku": "CommerceProduct_544947",
+  "productCategory": "Gifts",
+  "surfaceCategories": [
+    {
+      "categoryName": "front",
+      "surfaces": [
+        {
+          "renderingOutput": {},
+          "surfaceMetadata": [
+            {
+              "name": "designId",
+              "value": "D_188131",
+              "metadataType": "Builder"
+            },
+            {
+              "name": "designSurfaceId",
+              "value": "DA_3724093",
+              "metadataType": "Builder"
+            },
+            {
+              "name": "designGroupId",
+              "value": "DG_9782",
+              "metadataType": "Builder"
+            },
+            {
+              "name": "designCategoryId",
+              "value": "Native Full DesignCategory",
+              "metadataType": "Builder"
+            },
+            {
+              "name": "orientation",
+              "value": "portrait",
+              "metadataType": "Fulfillment"
+            }
+          ],
+          "surfaceNumber": 0,
+          "surfaceData": {
+            "pageDetails": {
+              "width": 7350,
+              "height": 10950,
+              "dpi": 300,
+              "minDpi": 0
+            },
+            "layeredItems": [
+              {
+                "content": {
+                  "contentType": "DesignBackground",
+                  "userData": {
+                    "assetId": "DA_46776",
+                    "w": 10950,
+                    "h": 10950,
+                    "x": -1800,
+                    "y": 0,
+                    "rot": 0
+                  }
+                },
+                "container": {
+                  "w": 7350,
+                  "h": 10950,
+                  "x": 0,
+                  "y": 0,
+                  "rot": 0
+                },
+                "layerMetadata": [
+                  {
+                    "name": "designAssetId",
+                    "value": "DA_46776",
+                    "metadataType": "Builder"
+                  },
+                  {
+                    "name": "designAssetCategoryId",
+                    "value": "unavailable",
+                    "metadataType": "Builder"
+                  },
+                  {
+                    "name": "designAssetOperation",
+                    "value": "original_add",
+                    "metadataType": "Reporting"
+                  }
+                ],
+                "type": "background"
+              },
+              {
+                "content": {
+                  "contentType": "UserPhoto",
+                  "userData": {
+                    "assetId": "imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clELzx8PhDX54L&DATA=v4EJkC-MqisWSADXZ4BdP8ZDxPKdGuSEU3yKd4CsvQz8WIThkMi68iEy2oFNV03Jdg4pPk5P06TSOFVt.87SCmAGjfCUFzUtTO",
+                    "mediaId": "1826207570788404",
+                    "locationSpec": "02305335043720250310132738526.JPG",
+                    "w": 5711.246880000001,
+                    "h": 3569.5293,
+                    "x": -303.5261588428573,
+                    "y": 2.0833333,
+                    "rot": 0,
+                    "journalCore": "ef=au/"
+                  }
+                },
+                "container": {
+                  "w": 3672.9165,
+                  "h": 3569.5293,
+                  "x": 2.0833333,
+                  "y": 2.0833333,
+                  "rot": 0
+                },
+                "layerMetadata": [
+                  {
+                    "name": "designAssetCategoryId",
+                    "value": "unavailable",
+                    "metadataType": "Builder"
+                  },
+                  {
+                    "name": "designAssetOperation",
+                    "value": "original_add",
+                    "metadataType": "Reporting"
+                  },
+                  {
+                    "name": "reportingMediaSource",
+                    "value": "shutterfly",
+                    "metadataType": "Reporting"
+                  },
+                  {
+                    "name": "isLowResPhoto",
+                    "value": "true",
+                    "metadataType": "Builder"
+                  }
+                ],
+                "type": "photo"
+              },
+              {
+                "content": {
+                  "contentType": "UserPhoto",
+                  "userData": {
+                    "assetId": "imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEAkFmRG4X.9E&DATA=v4EJkC-MqisWCCHhtMb8-.0EUw-SmNldhk5XD7J5i913xcgL1Zs4lpIN6ZhTnMAJpEy7uq9VdIEK3JDhgBuSLqFKPHIphrGjQN",
+                    "mediaId": "1826207570788405",
+                    "locationSpec": "02305335043720250310132738525.JPG",
+                    "w": 1712.5,
+                    "h": 2568.75,
+                    "x": 3800,
+                    "y": -301.54003812857127,
+                    "rot": 0,
+                    "journalCore": "ef=au/"
+                  }
+                },
+                "container": {
+                  "w": 1712.5,
+                  "h": 1721.2208,
+                  "x": 3800,
+                  "y": 2.0833333,
+                  "rot": 0
+                },
+                "layerMetadata": [
+                  {
+                    "name": "designAssetCategoryId",
+                    "value": "unavailable",
+                    "metadataType": "Builder"
+                  },
+                  {
+                    "name": "designAssetOperation",
+                    "value": "original_add",
+                    "metadataType": "Reporting"
+                  },
+                  {
+                    "name": "reportingMediaSource",
+                    "value": "shutterfly",
+                    "metadataType": "Reporting"
+                  }
+                ],
+                "type": "photo"
+              },
+              {
+                "content": {
+                  "contentType": "UserPhoto",
+                  "userData": {
+                    "assetId": "imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEVt9VyKWElPB&DATA=v4EJkC-MqisWigUnP2iAUNCpzRowHHhfGCO.ziUA2DPvjIrONMeK32vHkOANduwNAhihdN.KpUO8fCW-1JvgjFObvt8a3HPVwy",
+                    "mediaId": "1826207570788402",
+                    "locationSpec": "02305335043720250310132732523.JPG",
+                    "w": 3073.6085714285714,
+                    "h": 1721.2208,
+                    "x": 5297.222857142857,
+                    "y": 2.0833333,
+                    "rot": 0,
+                    "journalCore": "ef=au/"
+                  }
+                },
+                "container": {
+                  "w": 1712.5,
+                  "h": 1721.2208,
+                  "x": 5637.5,
+                  "y": 2.0833333,
+                  "rot": 0
+                },
+                "layerMetadata": [
+                  {
+                    "name": "designAssetCategoryId",
+                    "value": "unavailable",
+                    "metadataType": "Builder"
+                  },
+                  {
+                    "name": "designAssetOperation",
+                    "value": "original_add",
+                    "metadataType": "Reporting"
+                  },
+                  {
+                    "name": "reportingMediaSource",
+                    "value": "shutterfly",
+                    "metadataType": "Reporting"
+                  },
+                  {
+                    "name": "isLowResPhoto",
+                    "value": "true",
+                    "metadataType": "Builder"
+                  }
+                ],
+                "type": "photo"
+              },
+              {
+                "content": {
+                  "contentType": "UserPhoto",
+                  "userData": {
+                    "assetId": "imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEQmFBzwTQ6LD&DATA=v4EJkC-MqisWCmAAwuVFz85xiK.xMX1tUKrQxjI1cPFpMyCpfDo6OO.obe0S4EtcYlxBOWOlgmxLdkWeQNpCsFiTDyWKeJG8yw",
+                    "mediaId": "1826207570788403",
+                    "locationSpec": "02305335043720250310132732524.JPG",
+                    "w": 8860.478495910113,
+                    "h": 4970.174656299579,
+                    "x": 573.4854065147138,
+                    "y": 224.86892185021088,
+                    "rot": 0,
+                    "journalCore": "ef=au/"
+                  }
+                },
+                "container": {
+                  "w": 1712.5,
+                  "h": 1723.3041,
+                  "x": 3800,
+                  "y": 1848.3042,
+                  "rot": 0
+                },
+                "layerMetadata": [
+                  {
+                    "name": "designAssetCategoryId",
+                    "value": "unavailable",
+                    "metadataType": "Builder"
+                  },
+                  {
+                    "name": "designAssetOperation",
+                    "value": "original_add",
+                    "metadataType": "Reporting"
+                  },
+                  {
+                    "name": "reportingMediaSource",
+                    "value": "shutterfly",
+                    "metadataType": "Reporting"
+                  },
+                  {
+                    "name": "isLowResPhoto",
+                    "value": "true",
+                    "metadataType": "Builder"
+                  }
+                ],
+                "type": "photo"
+              },
+              {
+                "content": {
+                  "contentType": "UserPhoto",
+                  "userData": {
+                    "assetId": "imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEwQkDRD3vvwM&DATA=v4EJkC-MqisWSMqg92bnr.U49sdv4NsZkn0WsGNhhnE5frtKbLVVc6PVULDYSR5WzC96Bu1Pivl40ChZAKZdeLh6V99qaHWt1R",
+                    "mediaId": "1826207570788398",
+                    "locationSpec": "02305335043720250310132730519.JPG",
+                    "w": 2300.6998036082473,
+                    "h": 1723.3041,
+                    "x": 5343.400098195876,
+                    "y": 1848.3042,
+                    "rot": 0,
+                    "journalCore": "ef=au/"
+                  }
+                },
+                "container": {
+                  "w": 1712.5,
+                  "h": 1723.3041,
+                  "x": 5637.5,
+                  "y": 1848.3042,
+                  "rot": 0
+                },
+                "layerMetadata": [
+                  {
+                    "name": "designAssetCategoryId",
+                    "value": "unavailable",
+                    "metadataType": "Builder"
+                  },
+                  {
+                    "name": "designAssetOperation",
+                    "value": "original_add",
+                    "metadataType": "Reporting"
+                  },
+                  {
+                    "name": "reportingMediaSource",
+                    "value": "shutterfly",
+                    "metadataType": "Reporting"
+                  },
+                  {
+                    "name": "isLowResPhoto",
+                    "value": "true",
+                    "metadataType": "Builder"
+                  }
+                ],
+                "type": "photo"
+              },
+              {
+                "content": {
+                  "contentType": "UserPhoto",
+                  "userData": {
+                    "assetId": "imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEWHh8eeCvTsI&DATA=v4EJkC-MqisWyMA4gjdoInZ8rVAr195mARm7WKOkZuBqaYDKjRha3nn37dkxxuuF9nrEhiPHA4bwu7W2ApWLDUztduSVSJ2dFw",
+                    "mediaId": "1826207570788391",
+                    "locationSpec": "02305335043720250310132710512.JPG",
+                    "w": 2569.876932682927,
+                    "h": 1447.3208,
+                    "x": 2.0833333,
+                    "y": 3696.6125,
+                    "rot": 0,
+                    "journalCore": "ef=au/"
+                  }
+                },
+                "container": {
+                  "w": 1979.0333,
+                  "h": 1447.3208,
+                  "x": 2.0833333,
+                  "y": 3696.6125,
+                  "rot": 0
+                },
+                "layerMetadata": [
+                  {
+                    "name": "designAssetCategoryId",
+                    "value": "unavailable",
+                    "metadataType": "Builder"
+                  },
+                  {
+                    "name": "designAssetOperation",
+                    "value": "original_add",
+                    "metadataType": "Reporting"
+                  },
+                  {
+                    "name": "reportingMediaSource",
+                    "value": "shutterfly",
+                    "metadataType": "Reporting"
+                  },
+                  {
+                    "name": "isLowResPhoto",
+                    "value": "true",
+                    "metadataType": "Builder"
+                  }
+                ],
+                "type": "photo"
+              },
+              {
+                "content": {
+                  "contentType": "UserPhoto",
+                  "userData": {
+                    "assetId": "imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEwMpY-CtGeyA&DATA=v4EJkC-MqisWCZLHGIusXwTHh5B9xteY8hw8ZwhAavWObsSbm5pI3gKksZJ6QAu1XfdlbQI1XfH3Ye84ZZeBXY.FuuPBaSHLk4",
+                    "mediaId": "1826207570788401",
+                    "locationSpec": "02305335043720250310132731522.JPG",
+                    "w": 4845.081396610169,
+                    "h": 3019.6458,
+                    "x": 2106.1167,
+                    "y": 3696.6125,
+                    "rot": 0,
+                    "journalCore": "ef=au/"
+                  }
+                },
+                "container": {
+                  "w": 2866.4082,
+                  "h": 3019.6458,
+                  "x": 2106.1167,
+                  "y": 3696.6125,
+                  "rot": 0
+                },
+                "layerMetadata": [
+                  {
+                    "name": "designAssetCategoryId",
+                    "value": "unavailable",
+                    "metadataType": "Builder"
+                  },
+                  {
+                    "name": "designAssetOperation",
+                    "value": "original_add",
+                    "metadataType": "Reporting"
+                  },
+                  {
+                    "name": "reportingMediaSource",
+                    "value": "shutterfly",
+                    "metadataType": "Reporting"
+                  },
+                  {
+                    "name": "isLowResPhoto",
+                    "value": "true",
+                    "metadataType": "Builder"
+                  }
+                ],
+                "type": "photo"
+              },
+              {
+                "content": {
+                  "contentType": "UserPhoto",
+                  "userData": {
+                    "assetId": "imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clE6qb23Xr4oGC&DATA=v4EJkC-MqisWiDKdUhN6NsaqJlCRbgukOgFfapr.JRTpiCB-0vAqJYc3zTX6NQooe1LQVq5HZC.odE6c2R27vgnUp8usrsYxVE",
+                    "mediaId": "1826207570788400",
+                    "locationSpec": "02305335043720250310132731521.JPG",
+                    "w": 3019.6458,
+                    "h": 3019.6458,
+                    "x": 4713.9400000000005,
+                    "y": 3696.6125,
+                    "rot": 0,
+                    "journalCore": "ef=au/"
+                  }
+                },
+                "container": {
+                  "w": 2252.475,
+                  "h": 3019.6458,
+                  "x": 5097.5254,
+                  "y": 3696.6125,
+                  "rot": 0
+                },
+                "layerMetadata": [
+                  {
+                    "name": "designAssetCategoryId",
+                    "value": "unavailable",
+                    "metadataType": "Builder"
+                  },
+                  {
+                    "name": "designAssetOperation",
+                    "value": "original_add",
+                    "metadataType": "Reporting"
+                  },
+                  {
+                    "name": "reportingMediaSource",
+                    "value": "shutterfly",
+                    "metadataType": "Reporting"
+                  },
+                  {
+                    "name": "isLowResPhoto",
+                    "value": "true",
+                    "metadataType": "Builder"
+                  }
+                ],
+                "type": "photo"
+              },
+              {
+                "content": {
+                  "contentType": "UserPhoto",
+                  "userData": {
+                    "assetId": "imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEHgHFQsg4VDA&DATA=v4EJkC-MqisWSoYZCsgP2m3RjtRd8y9yL5jfsNiwu9eQUEBK65g8cDSmG5JSxPXhW2HDzT9ggJy5f7v5c0bZrBPA",
+                    "mediaId": "1826207570788389",
+                    "locationSpec": "02305335043720250310132709510.JPG",
+                    "w": 2176.9618644628094,
+                    "h": 1447.3207999999997,
+                    "x": 2.0833333,
+                    "y": 5268.933000000001,
+                    "rot": 0,
+                    "journalCore": "ef=au/"
+                  }
+                },
+                "container": {
+                  "w": 1979.0333,
+                  "h": 1447.3208,
+                  "x": 2.0833333,
+                  "y": 5268.933,
+                  "rot": 0
+                },
+                "layerMetadata": [
+                  {
+                    "name": "designAssetCategoryId",
+                    "value": "unavailable",
+                    "metadataType": "Builder"
+                  },
+                  {
+                    "name": "designAssetOperation",
+                    "value": "original_add",
+                    "metadataType": "Reporting"
+                  },
+                  {
+                    "name": "reportingMediaSource",
+                    "value": "shutterfly",
+                    "metadataType": "Reporting"
+                  },
+                  {
+                    "name": "isLowResPhoto",
+                    "value": "true",
+                    "metadataType": "Builder"
+                  }
+                ],
+                "type": "photo"
+              },
+              {
+                "content": {
+                  "contentType": "UserPhoto",
+                  "userData": {
+                    "assetId": "imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEDv37NAO15NJ&DATA=v4EJkC-MqisWCfjgArbgtLQrMrs.q8w7lJOLMoPLCbmlZi7UjE3YuN-D6MwzIZMPO5cQ-wjD-7k9IeMbEpz7dRtGNnlgk5x-xP",
+                    "mediaId": "1826207570788392",
+                    "locationSpec": "02305335043720250310132711513.JPG",
+                    "w": 3515.2200000000003,
+                    "h": 2197.0125000000003,
+                    "x": 2.0833333,
+                    "y": 6841.258,
+                    "rot": 0,
+                    "journalCore": "ef=au/"
+                  }
+                },
+                "container": {
+                  "w": 2768.2417,
+                  "h": 2197.0125,
+                  "x": 2.0833333,
+                  "y": 6841.258,
+                  "rot": 0
+                },
+                "layerMetadata": [
+                  {
+                    "name": "designAssetCategoryId",
+                    "value": "unavailable",
+                    "metadataType": "Builder"
+                  },
+                  {
+                    "name": "designAssetOperation",
+                    "value": "original_add",
+                    "metadataType": "Reporting"
+                  },
+                  {
+                    "name": "reportingMediaSource",
+                    "value": "shutterfly",
+                    "metadataType": "Reporting"
+                  },
+                  {
+                    "name": "isLowResPhoto",
+                    "value": "true",
+                    "metadataType": "Builder"
+                  }
+                ],
+                "type": "photo"
+              },
+              {
+                "content": {
+                  "contentType": "UserPhoto",
+                  "userData": {
+                    "assetId": "imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clE36zD9oQ0DPI&DATA=v4EJkC-MqisWSNloBW5KL78z3-KyP6U4HXWOoFqIrt9ZN6R40Ue501Uo4RKxDDPMPMeVZ0uUzYAz4wglYgVa6Ja1VRFe3s6DTk",
+                    "mediaId": "1826207570788390",
+                    "locationSpec": "02305335043720250310132709511.JPG",
+                    "w": 2974.6074666666664,
+                    "h": 1673.2167,
+                    "x": 2717.284114285714,
+                    "y": 6841.258,
+                    "rot": 0,
+                    "journalCore": "ef=au/"
+                  }
+                },
+                "container": {
+                  "w": 1837.5,
+                  "h": 1673.2167,
+                  "x": 2895.325,
+                  "y": 6841.258,
+                  "rot": 0
+                },
+                "layerMetadata": [
+                  {
+                    "name": "designAssetCategoryId",
+                    "value": "unavailable",
+                    "metadataType": "Builder"
+                  },
+                  {
+                    "name": "designAssetOperation",
+                    "value": "original_add",
+                    "metadataType": "Reporting"
+                  },
+                  {
+                    "name": "reportingMediaSource",
+                    "value": "shutterfly",
+                    "metadataType": "Reporting"
+                  }
+                ],
+                "type": "photo"
+              },
+              {
+                "content": {
+                  "contentType": "UserPhoto",
+                  "userData": {
+                    "assetId": "imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEUKCZXJ4rqQE&DATA=v4EJkC-MqisWitqJtI.8Gfa7NPdweZPn.StefvkUjtzd22PbX-JHz2MDw2GIKrLdA0N4o7aW9zLNa8uaUq.MY4ovkMRzlCIMUy",
+                    "mediaId": "1826207570788406",
+                    "locationSpec": "02305335043720250310132740527.JPG",
+                    "w": 2677.14672,
+                    "h": 1673.2167,
+                    "x": 4857.825,
+                    "y": 6841.258,
+                    "rot": 0,
+                    "journalCore": "ef=au/"
+                  }
+                },
+                "container": {
+                  "w": 2488.6416,
+                  "h": 1673.2167,
+                  "x": 4857.825,
+                  "y": 6841.258,
+                  "rot": 0
+                },
+                "layerMetadata": [
+                  {
+                    "name": "designAssetCategoryId",
+                    "value": "unavailable",
+                    "metadataType": "Builder"
+                  },
+                  {
+                    "name": "designAssetOperation",
+                    "value": "original_add",
+                    "metadataType": "Reporting"
+                  },
+                  {
+                    "name": "reportingMediaSource",
+                    "value": "shutterfly",
+                    "metadataType": "Reporting"
+                  }
+                ],
+                "type": "photo"
+              },
+              {
+                "content": {
+                  "contentType": "UserPhoto",
+                  "userData": {
+                    "assetId": "imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEcnh8nXRbQ4E&DATA=v4EJkC-MqisWSADXZ4BdP8ZDd4AOyqZ5gwvAZG3lMkzObCqJ9t7NRbM4rJ71AwIiq3vIV5cjPhNrqXQ.dlWA3Rh6.Z6mZYPp03",
+                    "mediaId": "1826207570788399",
+                    "locationSpec": "02305335043720250310132730520.JPG",
+                    "w": 4108.891428571429,
+                    "h": 2300.9792,
+                    "x": 2895.325,
+                    "y": 8639.475,
+                    "rot": 0,
+                    "journalCore": "ef=au/"
+                  }
+                },
+                "container": {
+                  "w": 2488.6416,
+                  "h": 2300.9792,
+                  "x": 2895.325,
+                  "y": 8639.475,
+                  "rot": 0
+                },
+                "layerMetadata": [
+                  {
+                    "name": "designAssetCategoryId",
+                    "value": "unavailable",
+                    "metadataType": "Builder"
+                  },
+                  {
+                    "name": "designAssetOperation",
+                    "value": "original_add",
+                    "metadataType": "Reporting"
+                  },
+                  {
+                    "name": "reportingMediaSource",
+                    "value": "shutterfly",
+                    "metadataType": "Reporting"
+                  },
+                  {
+                    "name": "isLowResPhoto",
+                    "value": "true",
+                    "metadataType": "Builder"
+                  }
+                ],
+                "type": "photo"
+              },
+              {
+                "content": {
+                  "contentType": "UserPhoto",
+                  "userData": {
+                    "assetId": "imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clE8eKgq8yVC5M&DATA=v4EJkC-MqisWyqlSxbIra0JjgBPV4-2F7K5RcfEjjPDrve25lZ-bmf8ud4CJeROBllxV8NnRtFu8IGor4wlkDBTKDZlUkR0uwo",
+                    "mediaId": "1826207570788407",
+                    "locationSpec": "02305335043720250310132741528.JPG",
+                    "w": 3448.7744449648717,
+                    "h": 2300.9792,
+                    "x": 4703.325177517565,
+                    "y": 8639.475,
+                    "rot": 0,
+                    "journalCore": "ef=au/"
+                  }
+                },
+                "container": {
+                  "w": 1837.5,
+                  "h": 2300.9792,
+                  "x": 5508.9624,
+                  "y": 8639.475,
+                  "rot": 0
+                },
+                "layerMetadata": [
+                  {
+                    "name": "designAssetCategoryId",
+                    "value": "unavailable",
+                    "metadataType": "Builder"
+                  },
+                  {
+                    "name": "designAssetOperation",
+                    "value": "original_add",
+                    "metadataType": "Reporting"
+                  },
+                  {
+                    "name": "reportingMediaSource",
+                    "value": "shutterfly",
+                    "metadataType": "Reporting"
+                  },
+                  {
+                    "name": "isLowResPhoto",
+                    "value": "true",
+                    "metadataType": "Builder"
+                  }
+                ],
+                "type": "photo"
+              },
+              {
+                "content": {
+                  "contentType": "UserPhoto",
+                  "userData": {
+                    "assetId": "imageID=0XG-zXh6H68w9-KYFvgppzcYBaBm03clEFuxTug-HfTF&DATA=v4EJkC-MqisWSBFT69ZzO17LcQc8MOcW8XZKE1SYUo3d5Z9SmxBxr5tnsZJ6QAu1Xf-ldEE1rhPP4JmfMtptZLLXvA-4ToXQEU",
+                    "mediaId": "1826207570788397",
+                    "locationSpec": "02305335043720250310132729518.JPG",
+                    "w": 3162.390628292683,
+                    "h": 1781.0167,
+                    "x": 2.0833333,
+                    "y": 9159.434,
+                    "rot": 0,
+                    "journalCore": "ef=au/"
+                  }
+                },
+                "container": {
+                  "w": 2768.2417,
+                  "h": 1781.0167,
+                  "x": 2.0833333,
+                  "y": 9159.434,
+                  "rot": 0
+                },
+                "layerMetadata": [
+                  {
+                    "name": "designAssetCategoryId",
+                    "value": "unavailable",
+                    "metadataType": "Builder"
+                  },
+                  {
+                    "name": "designAssetOperation",
+                    "value": "original_add",
+                    "metadataType": "Reporting"
+                  },
+                  {
+                    "name": "reportingMediaSource",
+                    "value": "shutterfly",
+                    "metadataType": "Reporting"
+                  },
+                  {
+                    "name": "isLowResPhoto",
+                    "value": "true",
+                    "metadataType": "Builder"
+                  }
+                ],
+                "type": "photo"
+              }
+            ]
+          },
+          "version": "4.0"
+        }
+      ]
+    }
+  ],
+  "projectName": "Celebration Photo Bo - 10/24/2025",
+  "projectMetadata": [
+    {
+      "name": "designName",
+      "value": "1693735",
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "designGroupName",
+      "value": "Clean Gallery of Fifteen Portrait",
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "orientation",
+      "value": "portrait",
+      "metadataType": "Fulfillment"
+    },
+    {
+      "name": "deviceInfo",
+      "value": "Chrome,desktop",
+      "metadataType": "Builder"
+    },
+    {
+      "name": "photoSources",
+      "value": [
+        "shutterfly"
+      ],
+      "metadataType": "Builder"
+    },
+    {
+      "name": "designId",
+      "value": "D_188131",
+      "metadataType": "Builder"
+    },
+    {
+      "name": "designGroupId",
+      "value": "DG_9782",
+      "metadataType": "Builder"
+    },
+    {
+      "name": "designCategoryId",
+      "value": "CAT_971",
+      "metadataType": "Builder"
+    },
+    {
+      "name": "landingDesignId",
+      "value": "D_188131",
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "landingDesignGroupId",
+      "value": "DG_9782",
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "oldestUploadDate",
+      "value": "2025-03-09T23:57:08.000-0800",
+      "metadataType": "Fulfillment"
+    },
+    {
+      "name": "brand",
+      "value": "SFLY",
+      "metadataType": "Pfc"
+    },
+    {
+      "name": "locale",
+      "value": "en_US",
+      "metadataType": "Builder"
+    },
+    {
+      "name": "numOfSessionsToComplete",
+      "value": 1,
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "numOfMinutesToComplete",
+      "value": 0.6005666666666667,
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "spvId",
+      "value": "SPV_4000206932",
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "spId",
+      "value": "SP_4255279795",
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "initialPrice",
+      "value": 39.99,
+      "metadataType": "Reporting"
+    }
+  ],
+  "commerceOptions": [],
+  "qty": "1",
+  "editProjectUrl": "https://www3.stage.shutterfly.com/create/builder?sku=CommerceProduct_544947&dg=DG_9782&d=D_188131&dgcat=CAT_971&category=singlesurface&",
+  "renderable": true,
+  "version": "2.0",
+  "recordSeq": 0,
+  "origin": "web_builder"
+}

@@ -1,0 +1,729 @@
+{
+  "projectType": {
+    "group": "cards",
+    "version": "1",
+    "name": "5x7 Gold Glitter Card - Signature Smooth Cardstock"
+  },
+  "photoWell": [
+    {
+      "url": "",
+      "source": "shutterfly",
+      "thumbnailUrl": "https://uniim1.dev.shutterfly.com/procsimple?cropll=0,0&cropur=1,1&effect=AUTO&imageID=0O2kq7JJVGVzoZ5aNZ-qYbfjjGTOy5viuzRv2E1dqpQK&DATA=v4SJBcECJ3RhIgFT6UeRFwPbRyLP8pIct57t-bsJZ5byyOQH1kVzrrNncFqjajZwxyyGhBvxuodJwyUF5relFyxTmV0sxSyvgV&rendersize=fit96x96",
+      "assetRef": "imageID=0O2kq7JJVGVzoZ5aNZ-qYbfjjGTOy5viuzRv2E1dqpQK&DATA=v4SJBcECJ3RhIgFT6UeRFwPbRyLP8pIct57t-bsJZ5byyOQH1kVzrrNncFqjajZwxyyGhBvxuodJwyUF5relFyxTmV0sxSyvgV",
+      "height": 4672,
+      "width": 5840,
+      "id": "1820611107652162",
+      "ownerId": "000086704992",
+      "locationSpec": "00008670499220250108060243751.JPG"
+    },
+    {
+      "url": "",
+      "source": "shutterfly",
+      "thumbnailUrl": "https://uniim1.dev.shutterfly.com/procsimple?cropll=0,0&cropur=1,1&effect=AUTO&imageID=0O2kq7JJVGVzoZ5aNZ-qYbfjjGTOy5viugtI9dSoBX4H&DATA=v4SJBcECJ3RhIN6G7Hg03qq1t-h-gCCxPkRB.CPINYxsWvOgrK5l-z3MHAgMGlBcX0404JNiMoEWH8T5tX29syo-Mh75gSZIlP&rendersize=fit96x96",
+      "assetRef": "imageID=0O2kq7JJVGVzoZ5aNZ-qYbfjjGTOy5viugtI9dSoBX4H&DATA=v4SJBcECJ3RhIN6G7Hg03qq1t-h-gCCxPkRB.CPINYxsWvOgrK5l-z3MHAgMGlBcX0404JNiMoEWH8T5tX29syo-Mh75gSZIlP",
+      "height": 3013,
+      "width": 4520,
+      "id": "1820611107652160",
+      "ownerId": "000086704992",
+      "locationSpec": "00008670499220250108060238750.JPG"
+    }
+  ],
+  "commerceSku": "CommerceProduct_890426",
+  "productCategory": "Cards",
+  "surfaceCategories": [
+    {
+      "categoryName": "front",
+      "surfaces": [
+        {
+          "renderingOutput": {},
+          "surfaceMetadata": [
+            {
+              "name": "designId",
+              "value": "D_220267",
+              "metadataType": "Builder"
+            },
+            {
+              "name": "designGroupId",
+              "value": "DG_30210",
+              "metadataType": "Builder"
+            },
+            {
+              "name": "designCategoryId",
+              "value": "Native Full DesignCategory",
+              "metadataType": "Builder"
+            },
+            {
+              "name": "orientation",
+              "value": "portrait",
+              "metadataType": "Fulfillment"
+            }
+          ],
+          "surfaceNumber": 0,
+          "surfaceData": {
+            "pageDetails": {
+              "width": 2046.24,
+              "height": 2833.88,
+              "dpi": 406,
+              "minDpi": 0
+            },
+            "layeredItems": [
+              {
+                "content": {
+                  "contentType": "SolidColor",
+                  "userData": {
+                    "fill": "#FFFFFF"
+                  }
+                },
+                "container": {
+                  "w": 2046.24,
+                  "h": 2833.88,
+                  "x": 0,
+                  "y": 0,
+                  "rot": 0
+                },
+                "layerMetadata": [
+                  {
+                    "name": "designAssetId",
+                    "value": "default",
+                    "metadataType": "Builder"
+                  },
+                  {
+                    "name": "designAssetOperation",
+                    "value": "original_add",
+                    "metadataType": "Reporting"
+                  }
+                ],
+                "type": "background"
+              },
+              {
+                "content": {
+                  "contentType": "UserPhoto",
+                  "userData": {
+                    "assetId": "imageID=0O2kq7JJVGVzoZ5aNZ-qYbfjjGTOy5viuzRv2E1dqpQK&DATA=v4SJBcECJ3RhIgFT6UeRFwPbRyLP8pIct57t-bsJZ5byyOQH1kVzrrNncFqjajZwxyyGhBvxuodJwyUF5relFyxTmV0sxSyvgV",
+                    "mediaId": "1820611107652162",
+                    "locationSpec": "00008670499220250108060243751.JPG",
+                    "w": 3542.3599,
+                    "h": 2833.888,
+                    "x": -748.0543,
+                    "y": 0.0017111159,
+                    "rot": 0,
+                    "journalCore": "ef=au/"
+                  }
+                },
+                "container": {
+                  "w": 2046.2512,
+                  "h": 2833.888,
+                  "x": 1.1368684e-13,
+                  "y": 0.0017111159,
+                  "rot": 0
+                },
+                "layerMetadata": [
+                  {
+                    "name": "designAssetCategoryId",
+                    "value": "unavailable",
+                    "metadataType": "Builder"
+                  },
+                  {
+                    "name": "designAssetOperation",
+                    "value": "original_add",
+                    "metadataType": "Reporting"
+                  },
+                  {
+                    "name": "reportingMediaSource",
+                    "value": "shutterfly",
+                    "metadataType": "Reporting"
+                  }
+                ],
+                "type": "photo"
+              },
+              {
+                "content": {
+                  "contentType": "Overlay",
+                  "userData": {
+                    "assetId": "DA_399070",
+                    "w": 2046.2456,
+                    "h": 2833.8877,
+                    "x": 1.1368684e-13,
+                    "y": -0.00625494,
+                    "rot": 0
+                  }
+                },
+                "container": {
+                  "w": 2046.2456,
+                  "h": 2833.8877,
+                  "x": 1.1368684e-13,
+                  "y": -0.00625494,
+                  "rot": 0
+                },
+                "layerMetadata": [
+                  {
+                    "name": "designAssetId",
+                    "value": "DA_399070",
+                    "metadataType": "Builder"
+                  },
+                  {
+                    "name": "designAssetCategoryId",
+                    "value": "unavailable",
+                    "metadataType": "Builder"
+                  },
+                  {
+                    "name": "designAssetOperation",
+                    "value": "original_add",
+                    "metadataType": "Reporting"
+                  }
+                ],
+                "type": "overlay"
+              },
+              {
+                "content": {
+                  "contentType": "UserText",
+                  "userData": {
+                    "assetId": "DA_46653",
+                    "fontSize": 12,
+                    "fontColor": "#FFFFFF",
+                    "alignmentAnchor": "2",
+                    "linesOfText": [
+                      {
+                        "x": 44.15122275390627,
+                        "y": 49.75490196078431,
+                        "userLineFeed": true,
+                        "text": "central park / 168 vermont street / bellevue, washington"
+                      },
+                      {
+                        "x": 152.09995322265627,
+                        "y": 130.9549019607843,
+                        "userLineFeed": false,
+                        "text": "rsvp to michelle at 555.0123 by september 10th"
+                      }
+                    ],
+                    "fullText": "central park / 168 vermont street / bellevue, washington\nrsvp to michelle at 555.0123 by september 10th",
+                    "isCustomDesigned": false,
+                    "userEditedText": false
+                  }
+                },
+                "container": {
+                  "w": 1553.3658,
+                  "h": 203.37271,
+                  "x": 246.44267,
+                  "y": 2480.2908,
+                  "rot": 0
+                },
+                "layerMetadata": [
+                  {
+                    "name": "fontColor",
+                    "value": "CMYK(0,0,0,0)",
+                    "metadataType": "Renderer"
+                  },
+                  {
+                    "name": "colorSwatch",
+                    "value": "#FFFFFF",
+                    "metadataType": "Reporting"
+                  },
+                  {
+                    "name": "designAssetOperation",
+                    "value": "original_add",
+                    "metadataType": "Reporting"
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "content": {
+                  "contentType": "UserText",
+                  "userData": {
+                    "assetId": "DA_46649",
+                    "fontSize": 11,
+                    "fontColor": "#FFFFFF",
+                    "alignmentAnchor": "2",
+                    "linesOfText": [
+                      {
+                        "x": 56.11901640625001,
+                        "y": 44.039722222222224,
+                        "userLineFeed": false,
+                        "text": "S E P T E M B E R   1 6 ,   2 0 2 5   A T   3 : 0 0   P M"
+                      }
+                    ],
+                    "fullText": "S E P T E M B E R   1 6 ,   2 0 2 5   A T   3 : 0 0   P M",
+                    "isCustomDesigned": false,
+                    "userEditedText": false
+                  }
+                },
+                "container": {
+                  "w": 1553.2644,
+                  "h": 107.09407,
+                  "x": 246.44267,
+                  "y": 2373.1912,
+                  "rot": 0
+                },
+                "layerMetadata": [
+                  {
+                    "name": "fontColor",
+                    "value": "CMYK(0,0,0,0)",
+                    "metadataType": "Renderer"
+                  },
+                  {
+                    "name": "colorSwatch",
+                    "value": "#FFFFFF",
+                    "metadataType": "Reporting"
+                  },
+                  {
+                    "name": "designAssetOperation",
+                    "value": "original_add",
+                    "metadataType": "Reporting"
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "content": {
+                  "contentType": "UserText",
+                  "userData": {
+                    "assetId": "DA_46653",
+                    "fontSize": 12,
+                    "fontColor": "#FFFFFF",
+                    "alignmentAnchor": "2",
+                    "linesOfText": [
+                      {
+                        "x": 188.84401473077511,
+                        "y": 49.75490196078431,
+                        "userLineFeed": false,
+                        "text": "join us as we celebrate maria's 19th birthday"
+                      }
+                    ],
+                    "fullText": "join us as we celebrate maria's 19th birthday",
+                    "isCustomDesigned": false,
+                    "userEditedText": false
+                  }
+                },
+                "container": {
+                  "w": 1553.2644,
+                  "h": 126.02952,
+                  "x": 246.44267,
+                  "y": 2247.404,
+                  "rot": 0
+                },
+                "layerMetadata": [
+                  {
+                    "name": "fontColor",
+                    "value": "CMYK(0,0,0,0)",
+                    "metadataType": "Renderer"
+                  },
+                  {
+                    "name": "colorSwatch",
+                    "value": "#FFFFFF",
+                    "metadataType": "Reporting"
+                  },
+                  {
+                    "name": "designAssetOperation",
+                    "value": "original_add",
+                    "metadataType": "Reporting"
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "content": {
+                  "contentType": "UserText",
+                  "userData": {
+                    "assetId": "DA_46620",
+                    "fontSize": 64,
+                    "fontColor": "#FFFFFF",
+                    "alignmentAnchor": "2",
+                    "linesOfText": [
+                      {
+                        "x": 116.98650908203126,
+                        "y": 260.20088888888887,
+                        "userLineFeed": false,
+                        "text": "MARIA"
+                      }
+                    ],
+                    "fullText": "MARIA",
+                    "isCustomDesigned": false,
+                    "userEditedText": false
+                  }
+                },
+                "container": {
+                  "w": 1553.2644,
+                  "h": 325.31964,
+                  "x": 246.44267,
+                  "y": 1922.0842,
+                  "rot": 0
+                },
+                "layerMetadata": [
+                  {
+                    "name": "fontColor",
+                    "value": "CMYK(0,0,0,0)",
+                    "metadataType": "Renderer"
+                  },
+                  {
+                    "name": "colorSwatch",
+                    "value": "#FFFFFF",
+                    "metadataType": "Reporting"
+                  },
+                  {
+                    "name": "designAssetOperation",
+                    "value": "original_add",
+                    "metadataType": "Reporting"
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "content": {
+                  "contentType": "UserText",
+                  "userData": {
+                    "assetId": "DA_46467",
+                    "fontSize": 28,
+                    "fontColor": "#FFFFFF",
+                    "alignmentAnchor": "2",
+                    "linesOfText": [
+                      {
+                        "x": 297.10070654612775,
+                        "y": 183.1511111111111,
+                        "userLineFeed": false,
+                        "text": "let's celebrate"
+                      }
+                    ],
+                    "fullText": "let's celebrate",
+                    "isCustomDesigned": false,
+                    "userEditedText": false
+                  }
+                },
+                "container": {
+                  "w": 1553.2644,
+                  "h": 261.33502,
+                  "x": 246.44267,
+                  "y": 1660.7435,
+                  "rot": 0
+                },
+                "layerMetadata": [
+                  {
+                    "name": "fontColor",
+                    "value": "CMYK(0,0,0,0)",
+                    "metadataType": "Renderer"
+                  },
+                  {
+                    "name": "colorSwatch",
+                    "value": "#FFFFFF",
+                    "metadataType": "Reporting"
+                  },
+                  {
+                    "name": "designAssetOperation",
+                    "value": "original_add",
+                    "metadataType": "Reporting"
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "content": {
+                  "contentType": "Mask",
+                  "userData": {
+                    "assetId": "DA_1431996",
+                    "w": 2046.24,
+                    "h": 2833.888,
+                    "x": 1.1368684e-13,
+                    "y": -0.0039277887,
+                    "rot": 0
+                  }
+                },
+                "container": {
+                  "w": 2046.24,
+                  "h": 2833.888,
+                  "x": 1.1368684e-13,
+                  "y": -0.0039277887,
+                  "rot": 0
+                },
+                "layerMetadata": [
+                  {
+                    "name": "designAssetId",
+                    "value": "DA_1431996",
+                    "metadataType": "Builder"
+                  },
+                  {
+                    "name": "designAssetCategoryId",
+                    "value": "unavailable",
+                    "metadataType": "Builder"
+                  },
+                  {
+                    "name": "designAssetOperation",
+                    "value": "original_add",
+                    "metadataType": "Reporting"
+                  }
+                ],
+                "type": "mask"
+              }
+            ]
+          },
+          "version": "4.0"
+        }
+      ]
+    },
+    {
+      "categoryName": "back",
+      "surfaces": [
+        {
+          "renderingOutput": {},
+          "surfaceMetadata": [
+            {
+              "name": "designId",
+              "value": "DA_3777978",
+              "metadataType": "Builder"
+            },
+            {
+              "name": "designGroupId",
+              "value": "DG_30210",
+              "metadataType": "Builder"
+            },
+            {
+              "name": "designCategoryId",
+              "value": "Native Full DesignCategory",
+              "metadataType": "Builder"
+            },
+            {
+              "name": "orientation",
+              "value": "portrait",
+              "metadataType": "Fulfillment"
+            }
+          ],
+          "surfaceNumber": 3,
+          "surfaceData": {
+            "pageDetails": {
+              "width": 2046.24,
+              "height": 2833.88,
+              "dpi": 406,
+              "minDpi": 0
+            },
+            "layeredItems": [
+              {
+                "content": {
+                  "contentType": "DesignBackground",
+                  "userData": {
+                    "assetId": "DA_76498",
+                    "w": 2832.3062,
+                    "h": 2833.88,
+                    "x": -393.03302,
+                    "y": 0,
+                    "rot": 0
+                  }
+                },
+                "container": {
+                  "w": 2046.24,
+                  "h": 2833.88,
+                  "x": 0,
+                  "y": 0,
+                  "rot": 0
+                },
+                "layerMetadata": [
+                  {
+                    "name": "designAssetId",
+                    "value": "DA_76498",
+                    "metadataType": "Builder"
+                  },
+                  {
+                    "name": "designAssetCategoryId",
+                    "value": "unavailable",
+                    "metadataType": "Builder"
+                  },
+                  {
+                    "name": "designAssetOperation",
+                    "value": "original_add",
+                    "metadataType": "Reporting"
+                  }
+                ],
+                "type": "background"
+              },
+              {
+                "content": {
+                  "contentType": "Logo",
+                  "userData": {
+                    "assetId": "DA_64",
+                    "w": 1102.7019752,
+                    "h": 284.20154,
+                    "x": 471.7746123999999,
+                    "y": 2399.4653,
+                    "rot": 0
+                  }
+                },
+                "container": {
+                  "w": 1096.206,
+                  "h": 284.20154,
+                  "x": 475.0226,
+                  "y": 2399.4653,
+                  "rot": 0
+                },
+                "layerMetadata": [
+                  {
+                    "name": "designAssetId",
+                    "value": "DA_64",
+                    "metadataType": "Builder"
+                  },
+                  {
+                    "name": "designAssetCategoryId",
+                    "value": "unavailable",
+                    "metadataType": "Builder"
+                  },
+                  {
+                    "name": "designAssetOperation",
+                    "value": "original_add",
+                    "metadataType": "Reporting"
+                  }
+                ],
+                "type": "logo"
+              }
+            ]
+          },
+          "version": "4.0"
+        }
+      ]
+    }
+  ],
+  "projectName": "Glitter Card - 10/30/2025",
+  "projectMetadata": [
+    {
+      "name": "designName",
+      "value": "1666886",
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "designGroupName",
+      "value": "Cascading Glimmer",
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "orientation",
+      "value": "portrait",
+      "metadataType": "Fulfillment"
+    },
+    {
+      "name": "deviceInfo",
+      "value": "Chrome,desktop",
+      "metadataType": "Builder"
+    },
+    {
+      "name": "photoSources",
+      "value": [
+        "shutterfly"
+      ],
+      "metadataType": "Builder"
+    },
+    {
+      "name": "designId",
+      "value": "D_220267",
+      "metadataType": "Builder"
+    },
+    {
+      "name": "designGroupId",
+      "value": "DG_30210",
+      "metadataType": "Builder"
+    },
+    {
+      "name": "designCategoryId",
+      "value": "CAT_604",
+      "metadataType": "Builder"
+    },
+    {
+      "name": "iconUrlParams",
+      "value": {
+        "op": "CommerceProduct_489624",
+        "vt": "frontCoverPortraitOverlay"
+      },
+      "metadataType": "Renderer"
+    },
+    {
+      "name": "landingDesignId",
+      "value": "D_220267",
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "landingDesignGroupId",
+      "value": "DG_30210",
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "foilDesign",
+      "value": "ADORNED_ARC_W",
+      "metadataType": "Pfc"
+    },
+    {
+      "name": "GLITTER_DESIGN",
+      "value": "LUMINOUS_CONFETTI",
+      "metadataType": "Fulfillment"
+    },
+    {
+      "name": "oldestUploadDate",
+      "value": "2025-01-07T22:02:39.652-0800",
+      "metadataType": "Fulfillment"
+    },
+    {
+      "name": "brand",
+      "value": "SFLY",
+      "metadataType": "Pfc"
+    },
+    {
+      "name": "locale",
+      "value": "en_US",
+      "metadataType": "Builder"
+    },
+    {
+      "name": "numOfSessionsToComplete",
+      "value": 2,
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "numOfMinutesToComplete",
+      "value": 1.93045,
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "spvId",
+      "value": "SPV_6298732627",
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "spId",
+      "value": "SP_1615562236",
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "initialPrice",
+      "value": 301.6,
+      "metadataType": "Reporting"
+    }
+  ],
+  "commerceOptions": [
+    {
+      "commerceOption": "CommerceProduct_866557",
+      "commerceOptionMetadata": [
+        {
+          "name": "orientation",
+          "value": "landscape",
+          "metadataType": "Fulfillment"
+        },
+        {
+          "name": "optionCategory",
+          "value": "Envelopes",
+          "metadataType": "Reporting"
+        }
+      ],
+      "surfaceCategories": []
+    },
+    {
+      "commerceOption": "CommerceProduct_489624",
+      "commerceOptionMetadata": [
+        {
+          "name": "optionCategory",
+          "value": "Trim",
+          "metadataType": "Reporting"
+        }
+      ],
+      "surfaceCategories": []
+    }
+  ],
+  "qty": 80,
+  "editProjectUrl": "https://www3.dev.shutterfly.com/create/builder?sku=CommerceProduct_890426&dg=DG_30210&d=D_220267&dgcat=CAT_604&category=cards&&optionSkus=CommerceProduct_489624|CommerceProduct_866557&",
+  "renderable": true,
+  "version": "2.0",
+  "recordSeq": 4,
+  "origin": "web_builder"
+}

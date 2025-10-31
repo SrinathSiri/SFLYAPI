@@ -1,0 +1,314 @@
+{
+  "projectType": {
+    "group": "gifts",
+    "version": "1",
+    "name": "Address Labels - Set of 24"
+  },
+  "photoWell": [],
+  "commerceSku": "CommerceProduct_635564",
+  "productCategory": "Stationery",
+  "surfaceCategories": [
+    {
+      "categoryName": "front",
+      "surfaces": [
+        {
+          "renderingOutput": {},
+          "surfaceMetadata": [
+            {
+              "name": "designId",
+              "value": "D_242874",
+              "metadataType": "Builder"
+            },
+            {
+              "name": "designSurfaceId",
+              "value": "DA_4044484",
+              "metadataType": "Builder"
+            },
+            {
+              "name": "designGroupId",
+              "value": "DG_47498",
+              "metadataType": "Builder"
+            },
+            {
+              "name": "designCategoryId",
+              "value": "Native Full DesignCategory",
+              "metadataType": "Builder"
+            },
+            {
+              "name": "orientation",
+              "value": "landscape",
+              "metadataType": "Fulfillment"
+            }
+          ],
+          "surfaceNumber": 0,
+          "surfaceData": {
+            "pageDetails": {
+              "width": 1015,
+              "height": 507.5,
+              "dpi": 406,
+              "minDpi": 0
+            },
+            "layeredItems": [
+              {
+                "content": {
+                  "contentType": "SolidColor",
+                  "userData": {
+                    "fill": "#FFFFFF"
+                  }
+                },
+                "container": {
+                  "w": 1015,
+                  "h": 507.5,
+                  "x": 0,
+                  "y": 0,
+                  "rot": 0
+                },
+                "layerMetadata": [
+                  {
+                    "name": "designAssetId",
+                    "value": "default",
+                    "metadataType": "Builder"
+                  },
+                  {
+                    "name": "designAssetOperation",
+                    "value": "original_add",
+                    "metadataType": "Reporting"
+                  }
+                ],
+                "type": "background"
+              },
+              {
+                "content": {
+                  "contentType": "Overlay",
+                  "userData": {
+                    "assetId": "DA_4044297",
+                    "w": 1015,
+                    "h": 507.5,
+                    "x": 0,
+                    "y": 0,
+                    "rot": 0
+                  }
+                },
+                "container": {
+                  "w": 1015,
+                  "h": 507.5,
+                  "x": 0,
+                  "y": 0,
+                  "rot": 0
+                },
+                "layerMetadata": [
+                  {
+                    "name": "designAssetId",
+                    "value": "DA_4044297",
+                    "metadataType": "Builder"
+                  },
+                  {
+                    "name": "designAssetCategoryId",
+                    "value": "unavailable",
+                    "metadataType": "Builder"
+                  },
+                  {
+                    "name": "designAssetOperation",
+                    "value": "original_add",
+                    "metadataType": "Reporting"
+                  }
+                ],
+                "type": "overlay"
+              },
+              {
+                "content": {
+                  "contentType": "UserText",
+                  "userData": {
+                    "assetId": "DA_650942",
+                    "fontSize": 12,
+                    "fontColor": "#FFFFFF",
+                    "alignmentAnchor": "7",
+                    "linesOfText": [
+                      {
+                        "x": 0,
+                        "y": 128.87117,
+                        "userLineFeed": false,
+                        "text": "T H E   W H I T M A N S"
+                      }
+                    ],
+                    "fullText": "T H E   W H I T M A N S",
+                    "isCustomDesigned": false,
+                    "userEditedText": false
+                  }
+                },
+                "container": {
+                  "w": 685.1645,
+                  "h": 128.87117,
+                  "x": 264.30038,
+                  "y": 65.32653,
+                  "rot": 0
+                },
+                "layerMetadata": [
+                  {
+                    "name": "fontColor",
+                    "value": "CMYK(0,0,0,0)",
+                    "metadataType": "Renderer"
+                  },
+                  {
+                    "name": "colorSwatch",
+                    "value": "#FFFFFF",
+                    "metadataType": "Reporting"
+                  },
+                  {
+                    "name": "designAssetOperation",
+                    "value": "original_add",
+                    "metadataType": "Reporting"
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "content": {
+                  "contentType": "UserText",
+                  "userData": {
+                    "assetId": "DA_46420",
+                    "fontSize": 11,
+                    "fontColor": "#FFFFFF",
+                    "alignmentAnchor": "1",
+                    "linesOfText": [
+                      {
+                        "x": 0,
+                        "y": 44.10175000000001,
+                        "userLineFeed": true,
+                        "text": "485 Water Drive"
+                      },
+                      {
+                        "x": 0,
+                        "y": 118.53508333333335,
+                        "userLineFeed": false,
+                        "text": "Merriam, Kansas 67905"
+                      }
+                    ],
+                    "fullText": "485 Water Drive\nMerriam, Kansas 67905",
+                    "isCustomDesigned": false,
+                    "userEditedText": false
+                  }
+                },
+                "container": {
+                  "w": 685.1645,
+                  "h": 212.1519,
+                  "x": 264.30038,
+                  "y": 230.02156,
+                  "rot": 0
+                },
+                "layerMetadata": [
+                  {
+                    "name": "fontColor",
+                    "value": "CMYK(0,0,0,0)",
+                    "metadataType": "Renderer"
+                  },
+                  {
+                    "name": "colorSwatch",
+                    "value": "#FFFFFF",
+                    "metadataType": "Reporting"
+                  },
+                  {
+                    "name": "designAssetOperation",
+                    "value": "original_add",
+                    "metadataType": "Reporting"
+                  }
+                ],
+                "type": "text"
+              }
+            ]
+          },
+          "version": "4.0"
+        }
+      ]
+    }
+  ],
+  "projectName": "Address Labels - 10/28/2025  10/28/25",
+  "projectMetadata": [
+    {
+      "name": "designName",
+      "value": "1756687",
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "designGroupName",
+      "value": "Framed Evergreen",
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "orientation",
+      "value": "landscape",
+      "metadataType": "Fulfillment"
+    },
+    {
+      "name": "deviceInfo",
+      "value": "Chrome,desktop",
+      "metadataType": "Builder"
+    },
+    {
+      "name": "designId",
+      "value": "D_242874",
+      "metadataType": "Builder"
+    },
+    {
+      "name": "designGroupId",
+      "value": "DG_47498",
+      "metadataType": "Builder"
+    },
+    {
+      "name": "designCategoryId",
+      "value": "CAT_488",
+      "metadataType": "Builder"
+    },
+    {
+      "name": "landingDesignId",
+      "value": "D_242874",
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "landingDesignGroupId",
+      "value": "DG_47498",
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "brand",
+      "value": "SFLY",
+      "metadataType": "Pfc"
+    },
+    {
+      "name": "locale",
+      "value": "en_US",
+      "metadataType": "Builder"
+    },
+    {
+      "name": "numOfSessionsToComplete",
+      "value": 1,
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "numOfMinutesToComplete",
+      "value": 0.17875,
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "spvId",
+      "value": "SPV_4468137062",
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "spId",
+      "value": "SP_1035679266",
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "initialPrice",
+      "value": 9.98,
+      "metadataType": "Reporting"
+    }
+  ],
+  "commerceOptions": [],
+  "qty": "1",
+  "editProjectUrl": "https://www3.dev.shutterfly.com/create/builder?sku=CommerceProduct_635564&dg=DG_47498&d=D_242874&dgcat=CAT_488&category=singlesurface&",
+  "renderable": true,
+  "version": "2.0",
+  "origin": "web_builder"
+}
