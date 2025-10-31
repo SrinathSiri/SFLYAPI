@@ -1,0 +1,636 @@
+{
+  "projectType": {
+    "group": "gifts",
+    "version": "1",
+    "name": "16oz Pint Glass - Etched, Set of 2"
+  },
+  "photoWell": [],
+  "commerceSku": "CommerceProduct_490249",
+  "productCategory": "Gifts",
+  "surfaceCategories": [],
+  "projectSkuType": "Bundle",
+  "projects": [
+    {
+      "projectType": {
+        "group": "gifts",
+        "version": "1",
+        "name": "16oz Pint Glass - Etched, Set of 2"
+      },
+      "projectMetadata": [
+        {
+          "name": "orientation",
+          "value": "portrait",
+          "metadataType": "Fulfillment"
+        },
+        {
+          "name": "designId",
+          "value": "D_197139",
+          "metadataType": "Builder"
+        },
+        {
+          "name": "designName",
+          "value": "1608106",
+          "metadataType": "Reporting"
+        },
+        {
+          "name": "designGroupId",
+          "value": "DG_37935",
+          "metadataType": "Builder"
+        },
+        {
+          "name": "designGroupName",
+          "value": "Universal Cheers",
+          "metadataType": "Reporting"
+        },
+        {
+          "name": "designCategoryId",
+          "value": "Native Full DesignCategory",
+          "metadataType": "Builder"
+        }
+      ],
+      "surfaceCategories": [
+        {
+          "categoryName": "front",
+          "surfaces": [
+            {
+              "renderingOutput": {},
+              "surfaceMetadata": [
+                {
+                  "name": "designId",
+                  "value": "D_197139",
+                  "metadataType": "Builder"
+                },
+                {
+                  "name": "designSurfaceId",
+                  "value": "DA_3735885",
+                  "metadataType": "Builder"
+                },
+                {
+                  "name": "designGroupId",
+                  "value": "DG_37935",
+                  "metadataType": "Builder"
+                },
+                {
+                  "name": "designCategoryId",
+                  "value": "Native Full DesignCategory",
+                  "metadataType": "Builder"
+                },
+                {
+                  "name": "renderingSurfaceType",
+                  "value": "front",
+                  "metadataType": "Renderer"
+                },
+                {
+                  "name": "prodSpecSurfaceId",
+                  "value": "Surface_1",
+                  "metadataType": "Renderer"
+                },
+                {
+                  "name": "orientation",
+                  "value": "portrait",
+                  "metadataType": "Fulfillment"
+                }
+              ],
+              "surfaceNumber": 0,
+              "surfaceData": {
+                "pageDetails": {
+                  "width": 966,
+                  "height": 1275,
+                  "dpi": 300,
+                  "minDpi": 0
+                },
+                "layeredItems": [
+                  {
+                    "content": {
+                      "contentType": "UserText",
+                      "userData": {
+                        "assetId": "DA_46437",
+                        "fontSize": 18,
+                        "fontColor": "#848C8C",
+                        "alignmentAnchor": "4",
+                        "linesOfText": [
+                          {
+                            "x": 0,
+                            "y": 89.51355346531767,
+                            "userLineFeed": true,
+                            "text": "cin cin"
+                          },
+                          {
+                            "x": 0,
+                            "y": 179.51355346531767,
+                            "userLineFeed": true,
+                            "text": "gan bei"
+                          },
+                          {
+                            "x": 0,
+                            "y": 269.51355346531767,
+                            "userLineFeed": true,
+                            "text": "prost"
+                          },
+                          {
+                            "x": 0,
+                            "y": 359.51355346531767,
+                            "userLineFeed": true,
+                            "text": "salud"
+                          },
+                          {
+                            "x": 0,
+                            "y": 449.51355346531767,
+                            "userLineFeed": false,
+                            "text": "santÉ"
+                          }
+                        ],
+                        "fullText": "cin cin\ngan bei\nprost\nsalud\nsantÉ",
+                        "isCustomDesigned": false,
+                        "userEditedText": false
+                      }
+                    },
+                    "container": {
+                      "w": 476.65204772877644,
+                      "h": 485.77710693063534,
+                      "x": 257.85526776331386,
+                      "y": 296.7985363239397,
+                      "rot": 0
+                    },
+                    "layerMetadata": [
+                      {
+                        "name": "fontColor",
+                        "value": "CMYK(6,0,0,45)",
+                        "metadataType": "Renderer"
+                      },
+                      {
+                        "name": "colorSwatch",
+                        "value": "#848C8C",
+                        "metadataType": "Reporting"
+                      },
+                      {
+                        "name": "designAssetOperation",
+                        "value": "original_add",
+                        "metadataType": "Reporting"
+                      }
+                    ],
+                    "type": "text"
+                  },
+                  {
+                    "content": {
+                      "contentType": "UserText",
+                      "userData": {
+                        "assetId": "DA_46436",
+                        "fontSize": 18,
+                        "fontColor": "#848C8C",
+                        "alignmentAnchor": "4",
+                        "linesOfText": [
+                          {
+                            "x": 0,
+                            "y": 103.28574433963665,
+                            "userLineFeed": false,
+                            "text": "Cheers"
+                          }
+                        ],
+                        "fullText": "Cheers",
+                        "isCustomDesigned": false,
+                        "userEditedText": false
+                      }
+                    },
+                    "container": {
+                      "w": 474.2353773466004,
+                      "h": 153.3214886792733,
+                      "x": 260.2719581455759,
+                      "y": 737.2212284090041,
+                      "rot": 0
+                    },
+                    "layerMetadata": [
+                      {
+                        "name": "fontColor",
+                        "value": "CMYK(6,0,0,45)",
+                        "metadataType": "Renderer"
+                      },
+                      {
+                        "name": "colorSwatch",
+                        "value": "#848C8C",
+                        "metadataType": "Reporting"
+                      },
+                      {
+                        "name": "designAssetOperation",
+                        "value": "original_add",
+                        "metadataType": "Reporting"
+                      }
+                    ],
+                    "type": "text"
+                  },
+                  {
+                    "content": {
+                      "contentType": "UserText",
+                      "userData": {
+                        "assetId": "DA_46437",
+                        "fontSize": 18,
+                        "fontColor": "#848C8C",
+                        "alignmentAnchor": "4",
+                        "linesOfText": [
+                          {
+                            "x": 0,
+                            "y": 112.79620519720659,
+                            "userLineFeed": false,
+                            "text": "hawaii"
+                          }
+                        ],
+                        "fullText": "hawaii",
+                        "isCustomDesigned": false,
+                        "userEditedText": false
+                      }
+                    },
+                    "container": {
+                      "w": 485.2812548004218,
+                      "h": 172.34241039441318,
+                      "x": 249.2260606916686,
+                      "y": 848.0800646659093,
+                      "rot": 0
+                    },
+                    "layerMetadata": [
+                      {
+                        "name": "fontColor",
+                        "value": "CMYK(6,0,0,45)",
+                        "metadataType": "Renderer"
+                      },
+                      {
+                        "name": "colorSwatch",
+                        "value": "#848C8C",
+                        "metadataType": "Reporting"
+                      },
+                      {
+                        "name": "designAssetOperation",
+                        "value": "original_add",
+                        "metadataType": "Reporting"
+                      }
+                    ],
+                    "type": "text"
+                  }
+                ]
+              },
+              "version": "4.0"
+            }
+          ]
+        }
+      ],
+      "commerceSku": "CommerceProduct_488952",
+      "renderingOutput": {},
+      "commerceOptions": []
+    },
+    {
+      "projectType": {
+        "group": "gifts",
+        "version": "1",
+        "name": "16oz Pint Glass - Etched, Set of 2"
+      },
+      "projectMetadata": [
+        {
+          "name": "orientation",
+          "value": "portrait",
+          "metadataType": "Fulfillment"
+        },
+        {
+          "name": "designId",
+          "value": "D_197139",
+          "metadataType": "Builder"
+        },
+        {
+          "name": "designName",
+          "value": "1608106",
+          "metadataType": "Reporting"
+        },
+        {
+          "name": "designGroupId",
+          "value": "DG_37935",
+          "metadataType": "Builder"
+        },
+        {
+          "name": "designGroupName",
+          "value": "Universal Cheers",
+          "metadataType": "Reporting"
+        },
+        {
+          "name": "designCategoryId",
+          "value": "Native Full DesignCategory",
+          "metadataType": "Builder"
+        }
+      ],
+      "surfaceCategories": [
+        {
+          "categoryName": "front",
+          "surfaces": [
+            {
+              "renderingOutput": {},
+              "surfaceMetadata": [
+                {
+                  "name": "designId",
+                  "value": "D_197139",
+                  "metadataType": "Builder"
+                },
+                {
+                  "name": "designSurfaceId",
+                  "value": "DA_3735885",
+                  "metadataType": "Builder"
+                },
+                {
+                  "name": "designGroupId",
+                  "value": "DG_37935",
+                  "metadataType": "Builder"
+                },
+                {
+                  "name": "designCategoryId",
+                  "value": "Native Full DesignCategory",
+                  "metadataType": "Builder"
+                },
+                {
+                  "name": "renderingSurfaceType",
+                  "value": "inside",
+                  "metadataType": "Renderer"
+                },
+                {
+                  "name": "prodSpecSurfaceId",
+                  "value": "Surface_2",
+                  "metadataType": "Renderer"
+                },
+                {
+                  "name": "orientation",
+                  "value": "portrait",
+                  "metadataType": "Fulfillment"
+                }
+              ],
+              "surfaceNumber": 1,
+              "surfaceData": {
+                "pageDetails": {
+                  "width": 966,
+                  "height": 1275,
+                  "dpi": 300,
+                  "minDpi": 0
+                },
+                "layeredItems": [
+                  {
+                    "content": {
+                      "contentType": "UserText",
+                      "userData": {
+                        "assetId": "DA_46437",
+                        "fontSize": 18,
+                        "fontColor": "#848C8C",
+                        "alignmentAnchor": "4",
+                        "linesOfText": [
+                          {
+                            "x": 0,
+                            "y": 89.51355346531767,
+                            "userLineFeed": true,
+                            "text": "cin cin"
+                          },
+                          {
+                            "x": 0,
+                            "y": 179.51355346531767,
+                            "userLineFeed": true,
+                            "text": "gan bei"
+                          },
+                          {
+                            "x": 0,
+                            "y": 269.51355346531767,
+                            "userLineFeed": true,
+                            "text": "prost"
+                          },
+                          {
+                            "x": 0,
+                            "y": 359.51355346531767,
+                            "userLineFeed": true,
+                            "text": "salud"
+                          },
+                          {
+                            "x": 0,
+                            "y": 449.51355346531767,
+                            "userLineFeed": false,
+                            "text": "santÉ"
+                          }
+                        ],
+                        "fullText": "cin cin\ngan bei\nprost\nsalud\nsantÉ",
+                        "isCustomDesigned": false,
+                        "userEditedText": false
+                      }
+                    },
+                    "container": {
+                      "w": 476.65204772877644,
+                      "h": 485.77710693063534,
+                      "x": 257.85526776331386,
+                      "y": 296.7985363239397,
+                      "rot": 0
+                    },
+                    "layerMetadata": [
+                      {
+                        "name": "fontColor",
+                        "value": "CMYK(6,0,0,45)",
+                        "metadataType": "Renderer"
+                      },
+                      {
+                        "name": "colorSwatch",
+                        "value": "#848C8C",
+                        "metadataType": "Reporting"
+                      },
+                      {
+                        "name": "designAssetOperation",
+                        "value": "original_add",
+                        "metadataType": "Reporting"
+                      }
+                    ],
+                    "type": "text"
+                  },
+                  {
+                    "content": {
+                      "contentType": "UserText",
+                      "userData": {
+                        "assetId": "DA_46436",
+                        "fontSize": 18,
+                        "fontColor": "#848C8C",
+                        "alignmentAnchor": "4",
+                        "linesOfText": [
+                          {
+                            "x": 0,
+                            "y": 103.28574433963665,
+                            "userLineFeed": false,
+                            "text": "Cheers"
+                          }
+                        ],
+                        "fullText": "Cheers",
+                        "isCustomDesigned": false,
+                        "userEditedText": false
+                      }
+                    },
+                    "container": {
+                      "w": 474.2353773466004,
+                      "h": 153.3214886792733,
+                      "x": 260.2719581455759,
+                      "y": 737.2212284090041,
+                      "rot": 0
+                    },
+                    "layerMetadata": [
+                      {
+                        "name": "fontColor",
+                        "value": "CMYK(6,0,0,45)",
+                        "metadataType": "Renderer"
+                      },
+                      {
+                        "name": "colorSwatch",
+                        "value": "#848C8C",
+                        "metadataType": "Reporting"
+                      },
+                      {
+                        "name": "designAssetOperation",
+                        "value": "original_add",
+                        "metadataType": "Reporting"
+                      }
+                    ],
+                    "type": "text"
+                  },
+                  {
+                    "content": {
+                      "contentType": "UserText",
+                      "userData": {
+                        "assetId": "DA_46437",
+                        "fontSize": 18,
+                        "fontColor": "#848C8C",
+                        "alignmentAnchor": "4",
+                        "linesOfText": [
+                          {
+                            "x": 0,
+                            "y": 112.79620519720659,
+                            "userLineFeed": false,
+                            "text": "hawaii"
+                          }
+                        ],
+                        "fullText": "hawaii",
+                        "isCustomDesigned": false,
+                        "userEditedText": false
+                      }
+                    },
+                    "container": {
+                      "w": 485.2812548004218,
+                      "h": 172.34241039441318,
+                      "x": 249.2260606916686,
+                      "y": 848.0800646659093,
+                      "rot": 0
+                    },
+                    "layerMetadata": [
+                      {
+                        "name": "fontColor",
+                        "value": "CMYK(6,0,0,45)",
+                        "metadataType": "Renderer"
+                      },
+                      {
+                        "name": "colorSwatch",
+                        "value": "#848C8C",
+                        "metadataType": "Reporting"
+                      },
+                      {
+                        "name": "designAssetOperation",
+                        "value": "original_add",
+                        "metadataType": "Reporting"
+                      }
+                    ],
+                    "type": "text"
+                  }
+                ]
+              },
+              "version": "4.0"
+            }
+          ]
+        }
+      ],
+      "commerceSku": "CommerceProduct_488952",
+      "renderingOutput": {},
+      "commerceOptions": []
+    }
+  ],
+  "projectName": "Pint Glasses - 10/31/2025",
+  "projectMetadata": [
+    {
+      "name": "designName",
+      "value": "1608106",
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "designGroupName",
+      "value": "Universal Cheers",
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "orientation",
+      "value": "portrait",
+      "metadataType": "Fulfillment"
+    },
+    {
+      "name": "deviceInfo",
+      "value": "Chrome,desktop",
+      "metadataType": "Builder"
+    },
+    {
+      "name": "designId",
+      "value": "D_197139",
+      "metadataType": "Builder"
+    },
+    {
+      "name": "designGroupId",
+      "value": "DG_37935",
+      "metadataType": "Builder"
+    },
+    {
+      "name": "designCategoryId",
+      "value": "CAT_670",
+      "metadataType": "Builder"
+    },
+    {
+      "name": "landingDesignId",
+      "value": "D_197139",
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "landingDesignGroupId",
+      "value": "DG_37935",
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "brand",
+      "value": "SFLY",
+      "metadataType": "Pfc"
+    },
+    {
+      "name": "locale",
+      "value": "en_US",
+      "metadataType": "Builder"
+    },
+    {
+      "name": "numOfSessionsToComplete",
+      "value": 1,
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "numOfMinutesToComplete",
+      "value": 0.33798333333333336,
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "spvId",
+      "value": "SPV_1046697876",
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "spId",
+      "value": "SP_5796454698",
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "initialPrice",
+      "value": 59.98,
+      "metadataType": "Reporting"
+    }
+  ],
+  "commerceOptions": [],
+  "qty": "1",
+  "editProjectUrl": "https://www3.stage.shutterfly.com/create/builder?sku=CommerceProduct_490249&dg=DG_37935&d=D_197139&dgcat=CAT_670&category=singlesurface&",
+  "renderable": true,
+  "version": "2.0",
+  "recordSeq": 0,
+  "origin": "web_builder"
+}

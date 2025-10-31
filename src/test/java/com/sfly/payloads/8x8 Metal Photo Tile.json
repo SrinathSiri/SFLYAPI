@@ -1,0 +1,448 @@
+{
+  "projectType": {
+    "group": "posters",
+    "version": "1",
+    "name": "8x8 Metal Photo Tile"
+  },
+  "photoWell": [
+    {
+      "url": "",
+      "source": "shutterfly",
+      "thumbnailUrl": "https://uniim1.stage.shutterfly.com/procsimple?cropll=0,0&cropur=1,1&effect=AUTO&imageID=0XG-zXh6H68gCoTHjhIPC.OIiNUxsjtmsLjJSu1j9C9N&DATA=v4JiBSc4hCwD.XEXE3gUrBCcGpaG-V4-IpU7-zSaRHtvN8Y.MKmNu.4f-pEU9DWcK2KrOPEdSo7q0VKrxtDPWOBFAXQqCCuiMA&rendersize=fit96x96",
+      "assetRef": "imageID=0XG-zXh6H68gCoTHjhIPC.OIiNUxsjtmsLjJSu1j9C9N&DATA=v4JiBSc4hCwD.XEXE3gUrBCcGpaG-V4-IpU7-zSaRHtvN8Y.MKmNu.4f-pEU9DWcK2KrOPEdSo7q0VKrxtDPWOBFAXQqCCuiMA",
+      "height": 5925,
+      "width": 3950,
+      "id": "1831269269996422",
+      "ownerId": "023057304994",
+      "locationSpec": "02305730499420250505090638800.JPG"
+    },
+    {
+      "url": "",
+      "source": "shutterfly",
+      "thumbnailUrl": "https://uniim1.stage.shutterfly.com/procsimple?cropll=0,0&cropur=1,1&effect=AUTO&imageID=0XG-zXh6H68gCoTHjhIPC.OIiNUxsjtmsKW5dQQ7CxjP&DATA=v4JiBSc4hCwDOE.ts5jrlUf3t-h-gCCxPkgQxwCjUvL.vJfMQ9WRgrl4WmHkT5Ie4X9Nld86zSaC-ysLE7m7.0GhmRem7kFzQJ&rendersize=fit96x96",
+      "assetRef": "imageID=0XG-zXh6H68gCoTHjhIPC.OIiNUxsjtmsKW5dQQ7CxjP&DATA=v4JiBSc4hCwDOE.ts5jrlUf3t-h-gCCxPkgQxwCjUvL.vJfMQ9WRgrl4WmHkT5Ie4X9Nld86zSaC-ysLE7m7.0GhmRem7kFzQJ",
+      "height": 5760,
+      "width": 3840,
+      "id": "1831269269996398",
+      "ownerId": "023057304994",
+      "locationSpec": "02305730499420250505090624796.JPG"
+    },
+    {
+      "url": "",
+      "source": "shutterfly",
+      "thumbnailUrl": "https://uniim1.stage.shutterfly.com/procsimple?cropll=0,0&cropur=1,1&effect=AUTO&imageID=0XG-zXh6H68gCoTHjhIPC.OIiNUxsjtmskexHUX14.3H&DATA=v4JiBSc4hCwDuKavKq8cTciJT6sPWBkrCvyne-YoGACCeuUxjjX1TWS0525zE5OS18DFRq2eYc4Xi1zDVlqQXFbEjaNmGNQbvn&rendersize=fit96x96",
+      "assetRef": "imageID=0XG-zXh6H68gCoTHjhIPC.OIiNUxsjtmskexHUX14.3H&DATA=v4JiBSc4hCwDuKavKq8cTciJT6sPWBkrCvyne-YoGACCeuUxjjX1TWS0525zE5OS18DFRq2eYc4Xi1zDVlqQXFbEjaNmGNQbvn",
+      "height": 5532,
+      "width": 3688,
+      "id": "1831269269996401",
+      "ownerId": "023057304994",
+      "locationSpec": "02305730499420250505090625797.JPG"
+    },
+    {
+      "url": "",
+      "source": "shutterfly",
+      "thumbnailUrl": "https://uniim1.stage.shutterfly.com/procsimple?cropll=0,0&cropur=1,1&effect=AUTO&imageID=0XG-zXh6H68gCoTHjhIPC.OIiNUxsjtmsln.Qn7L4I.K&DATA=v4JiBSc4hCwD.nfpwNvoYGyBtljX1cecOnzfYZouqpaqpibs-hapkPg8nFE2UMiIMYpFu1sH6cGbeW1jL0aocMTB&rendersize=fit96x96",
+      "assetRef": "imageID=0XG-zXh6H68gCoTHjhIPC.OIiNUxsjtmsln.Qn7L4I.K&DATA=v4JiBSc4hCwD.nfpwNvoYGyBtljX1cecOnzfYZouqpaqpibs-hapkPg8nFE2UMiIMYpFu1sH6cGbeW1jL0aocMTB",
+      "height": 4975,
+      "width": 6730,
+      "id": "1831269269996406",
+      "ownerId": "023057304994",
+      "locationSpec": "02305730499420250505090627799.JPG"
+    },
+    {
+      "url": "",
+      "source": "shutterfly",
+      "thumbnailUrl": "https://uniim1.stage.shutterfly.com/procsimple?cropll=0,0&cropur=1,1&effect=AUTO&imageID=0XG-zXh6H68gCoTHjhIPC.OIiNUxsjtmsuzHzSHdF0HG&DATA=v4JiBSc4hCwDewbKmpFYx1bLv20bg3csKN3l2WzJDXcGHTzPVt0UtAqi92YlT6vJQAHXSAOQTWXuiuqNCkG4SqY2YoTXMm7mkp&rendersize=fit96x96",
+      "assetRef": "imageID=0XG-zXh6H68gCoTHjhIPC.OIiNUxsjtmsuzHzSHdF0HG&DATA=v4JiBSc4hCwDewbKmpFYx1bLv20bg3csKN3l2WzJDXcGHTzPVt0UtAqi92YlT6vJQAHXSAOQTWXuiuqNCkG4SqY2YoTXMm7mkp",
+      "height": 3728,
+      "width": 5592,
+      "id": "1831269269996403",
+      "ownerId": "023057304994",
+      "locationSpec": "02305730499420250505090626798.JPG"
+    },
+    {
+      "url": "",
+      "source": "shutterfly",
+      "thumbnailUrl": "https://uniim1.stage.shutterfly.com/procsimple?cropll=0,0&cropur=1,1&effect=AUTO&imageID=0XG-zXh6H68gCoTHjhIPC.Sw6-7WYMkKtYsStDTA3NPM&DATA=v4JiBSc4hCwD.822-RPCZqP0UoUOTPymRmOCrrOta7JTjZkq0FImKNnWM6MofVB6ifWgKSJnZFVti9cWVrkcMdzarFPgRC6mvX&rendersize=fit96x96",
+      "assetRef": "imageID=0XG-zXh6H68gCoTHjhIPC.Sw6-7WYMkKtYsStDTA3NPM&DATA=v4JiBSc4hCwD.822-RPCZqP0UoUOTPymRmOCrrOta7JTjZkq0FImKNnWM6MofVB6ifWgKSJnZFVti9cWVrkcMdzarFPgRC6mvX",
+      "height": 768,
+      "width": 1024,
+      "id": "1825372240085652",
+      "ownerId": "023057304994",
+      "locationSpec": "02305730499420250301085219758.JPG"
+    },
+    {
+      "url": "",
+      "source": "shutterfly",
+      "thumbnailUrl": "https://uniim1.stage.shutterfly.com/procsimple?cropll=0,0&cropur=1,1&effect=AUTO&imageID=0XG-zXh6H68gCoTHjhIPC.Sw6-7WYMkKtiB1drwWYeaA&DATA=v4JiBSc4hCwD.gvQkscK5WBAxPKdGuSEU3-kxxCehMpxyYG96r0Qw7L3gAuKY92NTDK9cHhdDb8A3XcgZ4GnP8UqrIAfjyO2d9&rendersize=fit96x96",
+      "assetRef": "imageID=0XG-zXh6H68gCoTHjhIPC.Sw6-7WYMkKtiB1drwWYeaA&DATA=v4JiBSc4hCwD.gvQkscK5WBAxPKdGuSEU3-kxxCehMpxyYG96r0Qw7L3gAuKY92NTDK9cHhdDb8A3XcgZ4GnP8UqrIAfjyO2d9",
+      "height": 250,
+      "width": 400,
+      "id": "1825372240085646",
+      "ownerId": "023057304994",
+      "locationSpec": "02305730499420250301085150757.JPG"
+    },
+    {
+      "url": "",
+      "source": "shutterfly",
+      "thumbnailUrl": "https://uniim1.stage.shutterfly.com/procsimple?cropll=0,0&cropur=1,1&effect=AUTO&imageID=0XG-zXh6H68gCoTHjhIPC.OIiNUxsjtmsKJlwZ7Qr.YI&DATA=v4JiBSc4hCwD.nfpwNvoYGyFuoNoBT1xIL582vMy9iSea3pQPQa-HR6DrdsU-Pxo5ajqDt1OzzOe4ftgo6Ps0JDD&rendersize=fit96x96",
+      "assetRef": "imageID=0XG-zXh6H68gCoTHjhIPC.OIiNUxsjtmsKJlwZ7Qr.YI&DATA=v4JiBSc4hCwD.nfpwNvoYGyFuoNoBT1xIL582vMy9iSea3pQPQa-HR6DrdsU-Pxo5ajqDt1OzzOe4ftgo6Ps0JDD",
+      "height": 800,
+      "width": 600,
+      "id": "1831269269996355",
+      "ownerId": "023057304994",
+      "locationSpec": "02305730499420250505090606786.JPG"
+    },
+    {
+      "url": "",
+      "source": "shutterfly",
+      "thumbnailUrl": "https://uniim1.stage.shutterfly.com/procsimple?cropll=0,0&cropur=1,1&effect=AUTO&imageID=0XG-zXh6H68gCoTHjhIPC.OIiNUxsjtms3p-i36D5lXA&DATA=v4JiBSc4hCwDO23nlE5ZtozHQKLlBWmWJvwBJ0QmUDkHia5NPcHhjCQND6gmijD-yg-eAnJfkElegKgfg0V.t3VbvXZx68CLRK&rendersize=fit96x96",
+      "assetRef": "imageID=0XG-zXh6H68gCoTHjhIPC.OIiNUxsjtms3p-i36D5lXA&DATA=v4JiBSc4hCwDO23nlE5ZtozHQKLlBWmWJvwBJ0QmUDkHia5NPcHhjCQND6gmijD-yg-eAnJfkElegKgfg0V.t3VbvXZx68CLRK",
+      "height": 1282,
+      "width": 1920,
+      "id": "1831269269996371",
+      "ownerId": "023057304994",
+      "locationSpec": "02305730499420250505090611789.JPG"
+    },
+    {
+      "url": "",
+      "source": "shutterfly",
+      "thumbnailUrl": "https://uniim1.stage.shutterfly.com/procsimple?cropll=0,0&cropur=1,1&effect=AUTO&imageID=0XG-zXh6H68gCoTHjhIPC.OIiNUxsjtmsHkHTm0hMQ7G&DATA=v4JiBSc4hCwD.nfpwNvoYGyJqt.eVcVUxoRFbRsNb4fvVtUwqx2feOuvyG.TvFDbiVc2bXmZMjlHAdVBKEKcuwAB&rendersize=fit96x96",
+      "assetRef": "imageID=0XG-zXh6H68gCoTHjhIPC.OIiNUxsjtmsHkHTm0hMQ7G&DATA=v4JiBSc4hCwD.nfpwNvoYGyJqt.eVcVUxoRFbRsNb4fvVtUwqx2feOuvyG.TvFDbiVc2bXmZMjlHAdVBKEKcuwAB",
+      "height": 3840,
+      "width": 5760,
+      "id": "1831269269996393",
+      "ownerId": "023057304994",
+      "locationSpec": "02305730499420250505090621794.JPG"
+    },
+    {
+      "url": "",
+      "source": "shutterfly",
+      "thumbnailUrl": "https://uniim1.stage.shutterfly.com/procsimple?cropll=0,0&cropur=1,1&effect=AUTO&imageID=0XG-zXh6H68gCoTHjhIPC.OIiNUxsjtmsC3lwOYz0N2K&DATA=v4JiBSc4hCwD.VV3VSti-ZQMNs57JBNVevaKoT-np85FeLDGR.ud0vwQ4ymaQC-OqrXJLdIYAMVWRmWqEG1Xhyh1OfU0c1Hm9D&rendersize=fit96x96",
+      "assetRef": "imageID=0XG-zXh6H68gCoTHjhIPC.OIiNUxsjtmsC3lwOYz0N2K&DATA=v4JiBSc4hCwD.VV3VSti-ZQMNs57JBNVevaKoT-np85FeLDGR.ud0vwQ4ymaQC-OqrXJLdIYAMVWRmWqEG1Xhyh1OfU0c1Hm9D",
+      "height": 2844,
+      "width": 1896,
+      "id": "1831269269996395",
+      "ownerId": "023057304994",
+      "locationSpec": "02305730499420250505090623795.JPG"
+    }
+  ],
+  "commerceSku": "CommerceProduct_487698",
+  "productCategory": "Wallart",
+  "surfaceCategories": [
+    {
+      "categoryName": "front",
+      "surfaces": [
+        {
+          "renderingOutput": {},
+          "surfaceMetadata": [
+            {
+              "name": "designId",
+              "value": "D_195749",
+              "metadataType": "Builder"
+            },
+            {
+              "name": "designSurfaceId",
+              "value": "DA_3734006",
+              "metadataType": "Builder"
+            },
+            {
+              "name": "designGroupId",
+              "value": "DG_39155",
+              "metadataType": "Builder"
+            },
+            {
+              "name": "designCategoryId",
+              "value": "Native Full DesignCategory",
+              "metadataType": "Builder"
+            },
+            {
+              "name": "orientation",
+              "value": "landscape",
+              "metadataType": "Fulfillment"
+            }
+          ],
+          "surfaceNumber": 0,
+          "surfaceData": {
+            "pageDetails": {
+              "width": 2475,
+              "height": 2475,
+              "dpi": 300,
+              "minDpi": 0
+            },
+            "layeredItems": [
+              {
+                "content": {
+                  "contentType": "UserPhoto",
+                  "userData": {
+                    "assetId": "imageID=0XG-zXh6H68gCoTHjhIPC.OIiNUxsjtmsC3lwOYz0N2K&DATA=v4JiBSc4hCwD.VV3VSti-ZQMNs57JBNVevaKoT-np85FeLDGR.ud0vwQ4ymaQC-OqrXJLdIYAMVWRmWqEG1Xhyh1OfU0c1Hm9D",
+                    "mediaId": "1831269269996395",
+                    "locationSpec": "02305730499420250505090623795.JPG",
+                    "w": 2162.329,
+                    "h": 3243.4935000000005,
+                    "x": 155.4458299999999,
+                    "y": -202.4931700000002,
+                    "rot": 0,
+                    "journalCore": "ef=au/"
+                  }
+                },
+                "container": {
+                  "w": 2162.329,
+                  "h": 1838.4375,
+                  "x": 155.44583,
+                  "y": 148.77083,
+                  "rot": 0
+                },
+                "layerMetadata": [
+                  {
+                    "name": "designAssetCategoryId",
+                    "value": "unavailable",
+                    "metadataType": "Builder"
+                  },
+                  {
+                    "name": "designAssetOperation",
+                    "value": "original_add",
+                    "metadataType": "Reporting"
+                  },
+                  {
+                    "name": "reportingMediaSource",
+                    "value": "shutterfly",
+                    "metadataType": "Reporting"
+                  }
+                ],
+                "type": "photo"
+              },
+              {
+                "content": {
+                  "contentType": "Overlay",
+                  "userData": {
+                    "assetId": "DA_641225",
+                    "w": 2475,
+                    "h": 2475,
+                    "x": 0,
+                    "y": 0,
+                    "rot": 0
+                  }
+                },
+                "container": {
+                  "w": 2475,
+                  "h": 2475,
+                  "x": 0,
+                  "y": 0,
+                  "rot": 0
+                },
+                "layerMetadata": [
+                  {
+                    "name": "designAssetId",
+                    "value": "DA_641225",
+                    "metadataType": "Builder"
+                  },
+                  {
+                    "name": "designAssetCategoryId",
+                    "value": "unavailable",
+                    "metadataType": "Builder"
+                  },
+                  {
+                    "name": "designAssetOperation",
+                    "value": "original_add",
+                    "metadataType": "Reporting"
+                  }
+                ],
+                "type": "overlay"
+              },
+              {
+                "content": {
+                  "contentType": "CustomColorSVGPath",
+                  "userData": {
+                    "assetId": "DA_641234",
+                    "w": 2475,
+                    "h": 2475,
+                    "x": 0,
+                    "y": 0,
+                    "rot": 0,
+                    "fill": "#FFFFFF"
+                  }
+                },
+                "container": {
+                  "w": 2475,
+                  "h": 2475,
+                  "x": 0,
+                  "y": 0,
+                  "rot": 0
+                },
+                "layerMetadata": [
+                  {
+                    "name": "designAssetId",
+                    "value": "DA_641234",
+                    "metadataType": "Builder"
+                  },
+                  {
+                    "name": "designAssetCategoryId",
+                    "value": "unavailable",
+                    "metadataType": "Builder"
+                  },
+                  {
+                    "name": "designAssetOperation",
+                    "value": "original_add",
+                    "metadataType": "Reporting"
+                  }
+                ],
+                "type": "dynamicSVGLayer"
+              },
+              {
+                "content": {
+                  "contentType": "UserText",
+                  "userData": {
+                    "assetId": "DA_46436",
+                    "fontSize": 20,
+                    "fontColor": "#000000",
+                    "alignmentAnchor": "6",
+                    "linesOfText": [
+                      {
+                        "x": 968.5835425781252,
+                        "y": 122.15841696787149,
+                        "userLineFeed": false,
+                        "text": "AURORA JAN 2026"
+                      }
+                    ],
+                    "fullText": "AURORA JAN 2026",
+                    "isCustomDesigned": false,
+                    "userEditedText": true
+                  }
+                },
+                "container": {
+                  "w": 2119.2874,
+                  "h": 172.82085,
+                  "x": 180.85416999999998,
+                  "y": 1987.2167000000002,
+                  "rot": 0
+                },
+                "layerMetadata": [
+                  {
+                    "name": "fontColor",
+                    "value": "CMYK(0,0,0,100)",
+                    "metadataType": "Renderer"
+                  },
+                  {
+                    "name": "colorSwatch",
+                    "value": "#000000",
+                    "metadataType": "Reporting"
+                  },
+                  {
+                    "name": "designAssetOperation",
+                    "value": "original_add",
+                    "metadataType": "Reporting"
+                  }
+                ],
+                "type": "text"
+              }
+            ]
+          },
+          "version": "4.0"
+        }
+      ]
+    }
+  ],
+  "projectName": "Metal Photo Tile - 10/31/2025",
+  "projectMetadata": [
+    {
+      "name": "designName",
+      "value": "1606906",
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "designGroupName",
+      "value": "Minimal Border",
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "orientation",
+      "value": "landscape",
+      "metadataType": "Fulfillment"
+    },
+    {
+      "name": "deviceInfo",
+      "value": "Chrome,desktop",
+      "metadataType": "Builder"
+    },
+    {
+      "name": "photoSources",
+      "value": [
+        "shutterfly"
+      ],
+      "metadataType": "Builder"
+    },
+    {
+      "name": "designId",
+      "value": "D_195749",
+      "metadataType": "Builder"
+    },
+    {
+      "name": "designGroupId",
+      "value": "DG_39155",
+      "metadataType": "Builder"
+    },
+    {
+      "name": "designCategoryId",
+      "value": "CAT_721",
+      "metadataType": "Builder"
+    },
+    {
+      "name": "landingDesignId",
+      "value": "D_195749",
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "landingDesignGroupId",
+      "value": "DG_39155",
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "oldestUploadDate",
+      "value": "2025-02-28T19:21:50.000-0800",
+      "metadataType": "Fulfillment"
+    },
+    {
+      "name": "brand",
+      "value": "SFLY",
+      "metadataType": "Pfc"
+    },
+    {
+      "name": "locale",
+      "value": "en_US",
+      "metadataType": "Builder"
+    },
+    {
+      "name": "numOfSessionsToComplete",
+      "value": 1,
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "numOfMinutesToComplete",
+      "value": 0.9592166666666667,
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "spvId",
+      "value": "SPV_1009844307",
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "spId",
+      "value": "SP_3613145524",
+      "metadataType": "Reporting"
+    },
+    {
+      "name": "initialPrice",
+      "value": 27.99,
+      "metadataType": "Reporting"
+    }
+  ],
+  "commerceOptions": [],
+  "qty": "1",
+  "editProjectUrl": "https://www3.stage.shutterfly.com/create/builder?sku=CommerceProduct_487698&dg=DG_39155&d=D_195749&dgcat=CAT_721&category=singlesurface&",
+  "renderable": true,
+  "version": "2.0",
+  "recordSeq": 0,
+  "origin": "web_builder"
+}
