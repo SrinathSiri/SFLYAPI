@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SFLY Dev Suite">
+
+    <!-- Run only tests in the Cards_and_Stationery group -->
+    <groups>
+        <run>
+            <include name="Dev"/>
+        </run>
+    </groups>
+
+    <test name="3.0 Dev Create Projects">
+        <packages>
+            <!-- all test classes directly in the package -->
+            <package name="com.dev.sfly.projects"/>
+
+            <!-- OR include subpackages too -->
+            <!-- <package name="com.dev.sfly.projects.*"/> -->
+        </packages>
+    </test>
+
+</suite>
