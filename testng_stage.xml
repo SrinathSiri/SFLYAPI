@@ -8,12 +8,14 @@
             <class name="com.sfly.projects.BlackCustomHoodieAdultXLFrontBackDesign"/>
             <class name="com.sfly.projects.BlackTshirtAdultSFrontDesign"/>
             <class name ="com.sfly.projects.BuntingBannerSignatureSmoothCardstock"/>
+            <class name="com.sfly.projects.CardGameMemory"/>
             <class name="com.sfly.projects.CelebrationPhotoBoard24x36"/>
             <class name ="com.sfly.projects.CeramicMugWhite11oz"/>
             <class name="com.sfly.projects.CeramicTilewithStand6x6"/>
             <class name="com.sfly.projects.ChristmasStockingWinterGreen"/>
             <class name="com.sfly.projects.CocktailNapkinsSetof50"/>
             <class name="com.sfly.projects.CottonToteBag15x18"/>
+            <class name="com.sfly.projects.CubeOrnament"/>
             <class name="com.sfly.projects.CustomSocksOneSize"/>
             <class name="com.sfly.projects.DesktopPlaqueSquareTrim5x7"/>
             <class name="com.sfly.projects.FarmhouseSign20x40"/>
@@ -23,6 +25,7 @@
             <class name="com.sfly.projects.GlassCandleFiresideSpice9oz"/>
             <class name="com.sfly.projects.GoldGlitterCardSignatureSmoothCardstock5x7"/>
             <class name="com.sfly.projects.HoodieAdultMFrontDesign"/>
+            <class name="com.sfly.projects.KeepsakeOrnamentSilver"/>
             <class name="com.sfly.projects.KeyRingRectangle"/>
             <class name="com.sfly.projects.KeyRingSquare"/>
             <class name="com.sfly.projects.MetalLuggageTagLarge"/>
@@ -36,6 +39,7 @@
             <class name="com.sfly.projects.Photobook11x8"/>
             <class name="com.sfly.projects.Photobook11x14"/>
             <class name="com.sfly.projects.Photobook12x12"/>
+            <class name="com.sfly.projects.PhotoCoastersSetof4"/>
             <class name="com.sfly.projects.PintGlass16ozEtchedSetof2"/>
             <class name="com.sfly.projects.Placemat11x17"/>
             <class name="com.sfly.projects.ReusableShoppingBagBlush16x16"/>

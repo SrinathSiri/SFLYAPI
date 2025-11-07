@@ -248,17 +248,12 @@
           "surfaceMetadata": [
             {
               "name": "designId",
-              "value": "D_189529",
-              "metadataType": "Builder"
-            },
-            {
-              "name": "designSurfaceId",
-              "value": "DA_3726168",
+              "value": "D_190526",
               "metadataType": "Builder"
             },
             {
               "name": "designGroupId",
-              "value": "DG_6094",
+              "value": "DG_11674",
               "metadataType": "Builder"
             },
             {
@@ -283,9 +278,14 @@
             "layeredItems": [
               {
                 "content": {
-                  "contentType": "SolidColor",
+                  "contentType": "DesignBackground",
                   "userData": {
-                    "fill": "#FFFFFF"
+                    "assetId": "DA_46776",
+                    "w": 4950,
+                    "h": 4950,
+                    "x": 0,
+                    "y": 0,
+                    "rot": 0
                   }
                 },
                 "container": {
@@ -298,7 +298,12 @@
                 "layerMetadata": [
                   {
                     "name": "designAssetId",
-                    "value": "default",
+                    "value": "DA_46776",
+                    "metadataType": "Builder"
+                  },
+                  {
+                    "name": "designAssetCategoryId",
+                    "value": "unavailable",
                     "metadataType": "Builder"
                   },
                   {
@@ -316,19 +321,19 @@
                     "assetId": "imageID=0XG-zXh6H68gCoTHjhIPC.OIiNUxsjtmsLjJSu1j9C9N&DATA=v4JiBSc4hCwD.XEXE3gUrBCcGpaG-V4-IpU7-zSaRHtvN8Y.MKmNu.4f-pEU9DWcK2KrOPEdSo7q0VKrxtDPWOBFAXQqCCuiMA",
                     "mediaId": "1831269269996422",
                     "locationSpec": "02305730499420250505090638800.JPG",
-                    "w": 3674.6501,
-                    "h": 5511.97515,
-                    "x": 633.56665,
-                    "y": -112.16878750000001,
+                    "w": 4950,
+                    "h": 7425,
+                    "x": 0,
+                    "y": -265.26282,
                     "rot": 0,
                     "journalCore": "ef=au/"
                   }
                 },
                 "container": {
-                  "w": 3674.6501,
-                  "h": 2625,
-                  "x": 633.56665,
-                  "y": 609.575,
+                  "w": 4950,
+                  "h": 4950,
+                  "x": 0,
+                  "y": 0,
                   "rot": 0
                 },
                 "layerMetadata": [
@@ -352,126 +357,97 @@
               },
               {
                 "content": {
-                  "contentType": "UserPhoto",
+                  "contentType": "UserText",
                   "userData": {
-                    "assetId": "imageID=0XG-zXh6H68gCoTHjhIPC.OIiNUxsjtmsuzHzSHdF0HG&DATA=v4JiBSc4hCwDewbKmpFYx1bLv20bg3csKN3l2WzJDXcGHTzPVt0UtAqi92YlT6vJQAHXSAOQTWXuiuqNCkG4SqY2YoTXMm7mkp",
-                    "mediaId": "1831269269996403",
-                    "locationSpec": "02305730499420250505090626798.JPG",
-                    "w": 1552.4937,
-                    "h": 1034.9958,
-                    "x": 633.56665,
-                    "y": 3294.479,
-                    "rot": 0,
-                    "journalCore": "ef=au/"
+                    "assetId": "DA_46436",
+                    "fontSize": 52,
+                    "fontColor": "#fdd4b4",
+                    "alignmentAnchor": "5",
+                    "linesOfText": [
+                      {
+                        "x": 1207.72091124772,
+                        "y": 377.36012414746546,
+                        "userLineFeed": false,
+                        "text": "AONHEWITT"
+                      }
+                    ],
+                    "fullText": "AONHEWITT",
+                    "isCustomDesigned": false,
+                    "userEditedText": true
                   }
                 },
                 "container": {
-                  "w": 1184.6459,
-                  "h": 1034.9958,
-                  "x": 633.56665,
-                  "y": 3294.479,
+                  "w": 4364.3833,
+                  "h": 569.21564,
+                  "x": 292.81054999999986,
+                  "y": 4129.503000000001,
                   "rot": 0
                 },
                 "layerMetadata": [
                   {
-                    "name": "designAssetCategoryId",
-                    "value": "unavailable",
-                    "metadataType": "Builder"
+                    "name": "fontColor",
+                    "value": "CMYK(0,20,28,0)",
+                    "metadataType": "Renderer"
+                  },
+                  {
+                    "name": "colorSwatch",
+                    "value": "#fdd4b4",
+                    "metadataType": "Reporting"
                   },
                   {
                     "name": "designAssetOperation",
-                    "value": "original_add",
-                    "metadataType": "Reporting"
-                  },
-                  {
-                    "name": "reportingMediaSource",
-                    "value": "shutterfly",
+                    "value": "original_edit",
                     "metadataType": "Reporting"
                   }
                 ],
-                "type": "photo"
+                "type": "text"
               },
               {
                 "content": {
-                  "contentType": "UserPhoto",
+                  "contentType": "UserText",
                   "userData": {
-                    "assetId": "imageID=0XG-zXh6H68gCoTHjhIPC.OIiNUxsjtmsln.Qn7L4I.K&DATA=v4JiBSc4hCwD.nfpwNvoYGyBtljX1cecOnzfYZouqpaqpibs-hapkPg8nFE2UMiIMYpFu1sH6cGbeW1jL0aocMTB",
-                    "mediaId": "1831269269996406",
-                    "locationSpec": "02305730499420250505090627799.JPG",
-                    "w": 1400.1048711557787,
-                    "h": 1034.9958,
-                    "x": 1882.6748999999998,
-                    "y": 3294.479,
-                    "rot": 0,
-                    "journalCore": "ef=au/"
+                    "assetId": "DA_46436",
+                    "fontSize": 52,
+                    "fontColor": "#000000",
+                    "alignmentAnchor": "5",
+                    "linesOfText": [
+                      {
+                        "x": 1510.3949224781888,
+                        "y": 377.35585414746544,
+                        "userLineFeed": false,
+                        "text": "AURORA"
+                      }
+                    ],
+                    "fullText": "AURORA",
+                    "isCustomDesigned": false,
+                    "userEditedText": true
                   }
                 },
                 "container": {
-                  "w": 1184.65,
-                  "h": 1034.9958,
-                  "x": 1882.6749,
-                  "y": 3294.479,
+                  "w": 4364.3833,
+                  "h": 569.2071,
+                  "x": 292.81054999999986,
+                  "y": 251.28983999999997,
                   "rot": 0
                 },
                 "layerMetadata": [
                   {
-                    "name": "designAssetCategoryId",
-                    "value": "unavailable",
-                    "metadataType": "Builder"
+                    "name": "fontColor",
+                    "value": "CMYK(0,0,0,100)",
+                    "metadataType": "Renderer"
+                  },
+                  {
+                    "name": "colorSwatch",
+                    "value": "#000000",
+                    "metadataType": "Reporting"
                   },
                   {
                     "name": "designAssetOperation",
-                    "value": "original_add",
-                    "metadataType": "Reporting"
-                  },
-                  {
-                    "name": "reportingMediaSource",
-                    "value": "shutterfly",
+                    "value": "original_edit",
                     "metadataType": "Reporting"
                   }
                 ],
-                "type": "photo"
-              },
-              {
-                "content": {
-                  "contentType": "UserPhoto",
-                  "userData": {
-                    "assetId": "imageID=0XG-zXh6H68gCoTHjhIPC.OIiNUxsjtmskexHUX14.3H&DATA=v4JiBSc4hCwDuKavKq8cTciJT6sPWBkrCvyne-YoGACCeuUxjjX1TWS0525zE5OS18DFRq2eYc4Xi1zDVlqQXFbEjaNmGNQbvn",
-                    "mediaId": "1831269269996401",
-                    "locationSpec": "02305730499420250505090625797.JPG",
-                    "w": 1184.6459,
-                    "h": 1776.96885,
-                    "x": 3136.3042,
-                    "y": 3172.4489107142854,
-                    "rot": 0,
-                    "journalCore": "ef=au/"
-                  }
-                },
-                "container": {
-                  "w": 1184.6459,
-                  "h": 1034.9958,
-                  "x": 3136.3042,
-                  "y": 3294.479,
-                  "rot": 0
-                },
-                "layerMetadata": [
-                  {
-                    "name": "designAssetCategoryId",
-                    "value": "unavailable",
-                    "metadataType": "Builder"
-                  },
-                  {
-                    "name": "designAssetOperation",
-                    "value": "original_add",
-                    "metadataType": "Reporting"
-                  },
-                  {
-                    "name": "reportingMediaSource",
-                    "value": "shutterfly",
-                    "metadataType": "Reporting"
-                  }
-                ],
-                "type": "photo"
+                "type": "text"
               }
             ]
           },
@@ -484,12 +460,12 @@
   "projectMetadata": [
     {
       "name": "designName",
-      "value": "1569970",
+      "value": "1661374",
       "metadataType": "Reporting"
     },
     {
       "name": "designGroupName",
-      "value": "Mixed Four Up Hero",
+      "value": "Photo Gallery",
       "metadataType": "Reporting"
     },
     {
@@ -511,12 +487,12 @@
     },
     {
       "name": "designId",
-      "value": "D_189529",
+      "value": "D_190526",
       "metadataType": "Builder"
     },
     {
       "name": "designGroupId",
-      "value": "DG_6094",
+      "value": "DG_11674",
       "metadataType": "Builder"
     },
     {
@@ -537,13 +513,13 @@
     {
       "name": "iconUrlParams",
       "value": {
-        "op": "CommerceProduct_488838"
+        "op": "CommerceProduct_489678,CommerceProduct_975888"
       },
       "metadataType": "Renderer"
     },
     {
       "name": "oldestUploadDate",
-      "value": "2025-05-04T19:35:58.000-0800",
+      "value": "2025-05-05T01:05:58.532-0800",
       "metadataType": "Fulfillment"
     },
     {
@@ -558,47 +534,58 @@
     },
     {
       "name": "numOfSessionsToComplete",
-      "value": 1,
+      "value": 5,
       "metadataType": "Reporting"
     },
     {
       "name": "numOfMinutesToComplete",
-      "value": 1.4002333333333334,
+      "value": 0.6001666666666666,
       "metadataType": "Reporting"
     },
     {
       "name": "spvId",
-      "value": "SPV_1105900000",
+      "value": "SPV_7610904472",
       "metadataType": "Reporting"
     },
     {
       "name": "spId",
-      "value": "SP_4540342312",
+      "value": "SP_6446309184",
       "metadataType": "Reporting"
     },
     {
       "name": "initialPrice",
-      "value": 154.99,
+      "value": 139.99,
       "metadataType": "Reporting"
     }
   ],
   "commerceOptions": [
     {
-      "commerceOption": "CommerceProduct_488838",
+      "commerceOption": "CommerceProduct_489678",
       "commerceOptionMetadata": [
         {
           "name": "optionCategory",
-          "value": "BottomMat",
+          "value": "FrameColor",
+          "metadataType": "Reporting"
+        }
+      ],
+      "surfaceCategories": []
+    },
+    {
+      "commerceOption": "CommerceProduct_975888",
+      "commerceOptionMetadata": [
+        {
+          "name": "optionCategory",
+          "value": "TopMat",
           "metadataType": "Reporting"
         }
       ],
       "surfaceCategories": []
     }
   ],
-  "qty": "1",
-  "editProjectUrl": "https://www3.stage.shutterfly.com/create/builder?sku=CommerceProduct_488405&dg=DG_6094&d=D_189529&dgcat=CAT_724&category=singlesurface&&optionSkus=CommerceProduct_488838&",
+  "qty": 1,
+  "editProjectUrl": "https://www3.stage.shutterfly.com/create/builder?sku=CommerceProduct_488405&dg=DG_11674&d=D_190526&dgcat=CAT_724&category=singlesurface&&optionSkus=CommerceProduct_489678|CommerceProduct_975888&",
   "renderable": true,
   "version": "2.0",
-  "recordSeq": 0,
+  "recordSeq": 6,
   "origin": "web_builder"
 }

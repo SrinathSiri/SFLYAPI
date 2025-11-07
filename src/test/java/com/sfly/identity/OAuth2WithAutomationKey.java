@@ -17,7 +17,7 @@ public class OAuth2WithAutomationKey {
                 .header("Authorization", "Basic Mjc5Ymd0NmdhY25obW45dWtndTYzcXF1aDM6cXdycg==")
                 .header("Content-Type", "application/x-www-form-urlencoded")
                 .formParam("grant_type", "password")
-                .formParam("username", "srinathstage6@yopmail.com")
+                .formParam("username", "srinathstage2@yopmail.com")
                 .formParam("password", "Testing@123")
                 .formParam("context", "/sfly/shutterfly/shutterfly-us/default")
                 .formParam("domainOrigin", "accounts.shutterfly.com")
